@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL       ReqType ReqParam1    ReqParam2 
+0 Base_Attack BAB     6            ****      
+1 Spellcraft  SKILL   16           5         
+2 Lore        SKILL   7            8         
+3 IronWill    FEAT    22           ****      
+4 ScriptVar   VAR     X1_AllowExor 0         

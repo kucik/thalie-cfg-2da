@@ -1,0 +1,11 @@
+2DA V2.0
+
+  LABEL            ReqType ReqParam1    ReqParam2 
+0 Base_Attack      BAB     6            ****      
+1 Persuade         SKILL   12           5         
+2 Intimidate       SKILL   24           5         
+3 PowerAttack      FEAT    28           ****      
+4 Cleave           FEAT    6            ****      
+5 WeapProfVychodni FEAT    1534         ****      
+6 ImproveInit      FEAT    377          ****      
+7 ScriptVar        VAR     X1_AllowSamu 0         

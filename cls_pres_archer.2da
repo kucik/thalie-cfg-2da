@@ -1,0 +1,12 @@
+2DA V2.0
+
+  LABEL            ReqType ReqParam1      ReqParam2 
+0 Point_Blank_Shot FEAT    27             ****      
+1 Vlada_magu       FEAT    381            ****      
+2 WeapFocLongBow   FEATOR  101            ****      
+3 WeapFocShortBow  FEATOR  102            ****      
+4 Elf              RACE    1              ****      
+5 Carozpyt         SKILL   16             5         
+6 Znalosti         SKILL   7              10        
+7 Base_Attack      BAB     6              ****      
+8 ScriptVar        VAR     X1_AllowArcher 0         

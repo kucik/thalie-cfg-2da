@@ -1,0 +1,7 @@
+2DA V2.0
+
+  LABEL       ReqType ReqParam1    ReqParam2 
+0 Base_Attack BAB     4            ****      
+1 Persuade    SKILL   12           5         
+2 IronWill    FEAT    22           ****      
+3 ScriptVar   VAR     DLA_AllowPDK 0         

@@ -1,0 +1,19 @@
+2DA V2.0
+
+   FeatLabel                              FeatIndex List GrantedOnLevel OnMenu 
+0  FEAT_GENERAL_POUZIT                    1515      3    50             1      
+1  FEAT_GENERAL_TARGET                    1516      3    50             1      
+2  FEAT_GENERAL_SEBRAT                    1517      3    50             1      
+3  FEAT_GENERAL_POZOROVAT                 1518      3    50             1      
+4  FEAT_SUBRACE_GENASI_VODNI_KUZEL        1519      3    50             1      
+5  FEAT_SUBRACE_GENASI_VZDUCH_ZAVAN_VETRU 1520      3    50             1      
+6  FEAT_SUBRACE_GENASI_ZEMNI_KAMENKA      1521      3    50             1      
+7  FEAT_SUBRACE_GENASI_OHEN_FIREWALL      1522      3    50             1      
+8  FEAT_SUBRACE_DROW_TEMNOTA              1523      3    50             1      
+9  FEAT_SUBRACE_ORK_ZURIVOST              1528      3    50             1      
+10 FEAT_SUBRACE_PULDRAK_DECH_CERNY        1529      3    50             1      
+11 FEAT_SUBRACE_PULDRAK_DECH_MODRY        1530      3    50             1      
+12 FEAT_SUBRACE_PULDRAK_DECH_ZELENY       1531      3    50             1      
+13 FEAT_SUBRACE_PULDRAK_DECH_CERVENY      1532      3    50             1      
+14 FEAT_SUBRACE_PULDRAK_DECH_BILY         1533      3    50             1      
+15 FEAT_SUBRACE_LET                       1535      3    50             1      

@@ -1,0 +1,13 @@
+2DA V2.0
+
+  LABEL             ReqType ReqParam1    ReqParam2 
+0 Parry             SKILL   10           5         
+1 Tumble            SKILL   21           5         
+2 Dodge             FEAT    10           ****      
+3 Mobility          FEAT    26           ****      
+4 WeapFocDagger     FEATOR  90           ****      
+5 WeapFocShortSword FEATOR  103          ****      
+6 WeapFocRapier     FEATOR  104          ****      
+7 WeaponFinesse     FEAT    42           ****      
+8 Base_Attack       BAB     6            ****      
+9 ScriptVar         VAR     X1_AllowSerm 0         

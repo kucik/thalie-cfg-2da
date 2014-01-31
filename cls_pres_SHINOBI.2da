@@ -1,0 +1,9 @@
+2DA V2.0
+
+  LABEL          ReqType ReqParam1    ReqParam2 
+0 Base_Attack    BAB     6            ****      
+1 Hide           SKILL   5            10        
+2 MoveSilently   SKILL   8            10        
+3 Evasion        FEAT    206          ****      
+4 Stealthy       FEAT    387          ****      
+5 ScriptVar      VAR     X1_AllowShin 0         

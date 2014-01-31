@@ -1,0 +1,480 @@
+2DA V2.0
+   
+       Description   Resource           Stinger1           Stinger2   Stinger3   DisplayName        
+0          61901         ****               ****               ****       ****       ****          
+1          61842         mus_ruralday1      ****               ****       ****       ****          
+2          61843         mus_ruralday2      ****               ****       ****       ****          
+3          61844         mus_ruralnite      ****               ****       ****       ****          
+4          61845         mus_forestday1     ****               ****       ****       ****          
+5          61846         mus_forestday2     ****               ****       ****       ****          
+6          61847         mus_forestnite     ****               ****       ****       ****          
+7          61848         mus_gendungeon1    ****               ****       ****       ****          
+8          61849         mus_sewer          ****               ****       ****       ****          
+9          61850         mus_mines1         ****               ****       ****       ****          
+10         61851         mus_mines2         ****               ****       ****       ****          
+11         61852         mus_crypt1         ****               ****       ****       ****          
+12         61853         mus_crypt2         ****               ****       ****       ****          
+13         61854         mus_evildungeon1   ****               ****       ****       ****          
+14         61855         mus_evildungeon2   ****               ****       ****       ****          
+15         61856         mus_cityslumday    ****               ****       ****       ****          
+16         61857         mus_cityslumnite   ****               ****       ****       ****          
+17         61858         mus_citydockday    ****               ****       ****       ****          
+18         61859         mus_citydocknite   ****               ****       ****       ****          
+19         61860         mus_citywealthy    ****               ****       ****       ****          
+20         61861         mus_citymarket     ****               ****       ****       ****          
+21         61862         mus_citynite       ****               ****       ****       ****          
+22         61863         mus_tavern1        ****               ****       ****       ****          
+23         61864         mus_tavern2        ****               ****       ****       ****          
+24         61865         mus_tavern3        ****               ****       ****       ****          
+25         61866         mus_richhouse      ****               ****       ****       ****          
+26         61867         mus_store          ****               ****       ****       ****          
+27         61868         mus_templegood     ****               ****       ****       ****          
+28         61869         mus_templeevil     ****               ****       ****       ****          
+29         61870         mus_theme_nwn      ****               ****       ****       ****          
+30         61871         mus_theme_chap1    ****               ****       ****       ****          
+31         61872         mus_theme_chap2    ****               ****       ****       ****          
+32         61873         mus_theme_chap3    ****               ****       ****       ****          
+33         61874         mus_theme_chap4    ****               ****       ****       ****          
+34         61875         mus_bat_rural1     mus_sbat_rural1    ****       ****       ****          
+35         61876         mus_bat_forest1    mus_sbat_forest1   ****       ****       ****          
+36         61877         mus_bat_forest2    mus_sbat_forest2   ****       ****       ****          
+37         61878         mus_bat_dung1      mus_sbat_dung1     ****       ****       ****          
+38         61879         mus_bat_dung2      mus_sbat_dung2     ****       ****       ****          
+39         61880         mus_bat_dung3      mus_sbat_dung3     ****       ****       ****          
+40         61881         mus_bat_city1      mus_sbat_city1     ****       ****       ****          
+41         61882         mus_bat_city2      mus_sbat_city2     ****       ****       ****          
+42         61883         mus_bat_city3      mus_sbat_city3     ****       ****       ****          
+43         61884         mus_bat_citboss    mus_sbat_citboss   ****       ****       ****          
+44         61885         mus_bat_forboss    mus_sbat_forboss   ****       ****       ****          
+45         61886         mus_bat_lizboss    mus_sbat_lizboss   ****       ****       ****          
+46         61887         mus_bat_dragon     mus_sbat_dragon    ****       ****       ****          
+47         61888         mus_bat_aribeth    mus_sbat_aribeth   ****       ****       ****          
+48         61889         mus_bat_endboss    mus_sbat_endboss   ****       ****       ****          
+49         66833         mus_templegood2    ****               ****       ****       ****          
+50         66883         mus_castle         ****               ****       ****       ****          
+51         66878         mus_theme_aribgd   ****               ****       ****       ****          
+52         66879         mus_theme_aribev   ****               ****       ****       ****          
+53         66880         mus_theme_argend   ****               ****       ****       ****          
+54         66881         mus_theme_maugrm   ****               ****       ****       ****          
+55         66882         mus_theme_morag    ****               ****       ****       ****          
+56         67545         mus_tavern4        ****               ****       ****       ****          
+57         8807          mus_bat_x0desert   ****               ****       ****       ****          
+58         8806          mus_x0desertday    ****               ****       ****       ****          
+59         8805          mus_x0winterday    ****               ****       ****       ****          
+60         52827         mus_bat_x0winter   ****               ****       ****       ****          
+61         40050         mus_x0desertngt    ****               ****       ****       ****          
+62         86656         mus_x2theme        ****               ****       ****       ****          
+63         86657         mus_x2waterdeep    ****               ****       ****       ****          
+64         86658         mus_x2undermtn     ****               ****       ****       ****          
+65         86659         mus_x2rebelcamp    ****               ****       ****       ****          
+66         86660         mus_x2fireplane    ****               ****       ****       ****          
+67         86661         mus_x2queen        ****               ****       ****       ****          
+68         86662         mus_x2frozenhell   ****               ****       ****       ****          
+69         86663         mus_x2draco        ****               ****       ****       ****          
+70         86664         mus_bat_x2small    mus_sbat_x2small   ****       ****       ****          
+71         86665         mus_bat_x2med      mus_sbat_x2med     ****       ****       ****          
+72         86666         mus_bat_x2large    mus_sbat_x2large   ****       ****       ****          
+73         86667         mus_bat_x2hell     mus_sbat_x2hell    ****       ****       ****          
+74         86668         mus_bat_x2boss1    mus_sbat_x2boss1   ****       ****       ****          
+75         86669         mus_bat_x2boss2    mus_sbat_x2boss2   ****       ****       ****          
+76         ****          ****               ****               ****       ****       ****          
+77         ****          ****               ****               ****       ****       ****          
+78         ****          ****               ****               ****       ****       ****          
+79         ****          ****               ****               ****       ****       ****          
+80         ****          ****               ****               ****       ****       ****          
+81         ****          ****               ****               ****       ****       ****          
+82         ****          ****               ****               ****       ****       ****          
+83         ****          ****               ****               ****       ****       ****          
+84         ****          ****               ****               ****       ****       ****          
+85         ****          ****               ****               ****       ****       ****          
+86         ****          ****               ****               ****       ****       ****          
+87         ****          ****               ****               ****       ****       ****          
+88         ****          ****               ****               ****       ****       ****          
+89         ****          ****               ****               ****       ****       ****          
+90         ****          ****               ****               ****       ****       ****          
+91         ****          ****               ****               ****       ****       ****          
+92         ****          ****               ****               ****       ****       ****          
+93         ****          ****               ****               ****       ****       ****          
+94         ****          ****               ****               ****       ****       ****          
+95         ****          ****               ****               ****       ****       ****          
+96         ****          ****               ****               ****       ****       ****          
+97         ****          ****               ****               ****       ****       ****          
+98         ****          ****               ****               ****       ****       ****          
+99         ****          ****               ****               ****       ****       ****          
+100        ****          ****               ****               ****       ****       ****          
+101        ****          ****               ****               ****       ****       ****          
+102        ****          ****               ****               ****       ****       ****          
+103        ****          ****               ****               ****       ****       ****          
+104        ****          ****               ****               ****       ****       ****          
+105        ****          ****               ****               ****       ****       ****          
+106        ****          ****               ****               ****       ****       ****          
+107        ****          ****               ****               ****       ****       ****          
+108        ****          ****               ****               ****       ****       ****          
+109        ****          ****               ****               ****       ****       ****          
+110        ****          ****               ****               ****       ****       ****          
+111        ****          ****               ****               ****       ****       ****          
+112        ****          ****               ****               ****       ****       ****          
+113        ****          ****               ****               ****       ****       ****          
+114        ****          ****               ****               ****       ****       ****          
+115        ****          ****               ****               ****       ****       ****          
+116        ****          ****               ****               ****       ****       ****          
+117        ****          ****               ****               ****       ****       ****          
+118        ****          ****               ****               ****       ****       ****          
+119        ****          ****               ****               ****       ****       ****          
+120        ****          ****               ****               ****       ****       ****          
+121        ****          ****               ****               ****       ****       ****          
+122        ****          ****               ****               ****       ****       ****          
+123        ****          ****               ****               ****       ****       ****          
+124        ****          ****               ****               ****       ****       ****          
+125        ****          ****               ****               ****       ****       ****          
+126        ****          ****               ****               ****       ****       ****          
+127        ****          ****               ****               ****       ****       ****          
+128        ****          ****               ****               ****       ****       ****          
+129        ****          ****               ****               ****       ****       ****          
+130        ****          ****               ****               ****       ****       ****          
+131        ****          ****               ****               ****       ****       ****          
+132        ****          ****               ****               ****       ****       ****          
+133        ****          ****               ****               ****       ****       ****          
+134        ****          ****               ****               ****       ****       ****          
+135        ****          ****               ****               ****       ****       ****          
+136        ****          ****               ****               ****       ****       ****          
+137        ****          ****               ****               ****       ****       ****          
+138        ****          ****               ****               ****       ****       ****          
+139        ****          ****               ****               ****       ****       ****          
+140        ****          ****               ****               ****       ****       ****          
+141        ****          ****               ****               ****       ****       ****          
+142        ****          ****               ****               ****       ****       ****          
+143        ****          ****               ****               ****       ****       ****          
+144        ****          ****               ****               ****       ****       ****          
+145        ****          ****               ****               ****       ****       ****          
+146        ****          ****               ****               ****       ****       ****          
+147        ****          ****               ****               ****       ****       ****          
+148        ****          ****               ****               ****       ****       ****          
+149        ****          ****               ****               ****       ****       ****          
+150        ****          ****               ****               ****       ****       ****          
+151        ****          ****               ****               ****       ****       ****          
+152        ****          ****               ****               ****       ****       ****          
+153        ****          ****               ****               ****       ****       ****          
+154        ****          ****               ****               ****       ****       ****          
+155        ****          ****               ****               ****       ****       ****          
+156        ****          ****               ****               ****       ****       ****          
+157        ****          ****               ****               ****       ****       ****          
+158        ****          ****               ****               ****       ****       ****          
+159        ****          ****               ****               ****       ****       ****          
+160        ****          ****               ****               ****       ****       ****          
+161        ****          ****               ****               ****       ****       ****          
+162        ****          ****               ****               ****       ****       ****          
+163        ****          ****               ****               ****       ****       ****          
+164        ****          ****               ****               ****       ****       ****          
+165        ****          ****               ****               ****       ****       ****          
+166        ****          ****               ****               ****       ****       ****          
+167        ****          ****               ****               ****       ****       ****          
+168        ****          ****               ****               ****       ****       ****          
+169        ****          ****               ****               ****       ****       ****          
+170        ****          ****               ****               ****       ****       ****          
+171        ****          ****               ****               ****       ****       ****          
+172        ****          ****               ****               ****       ****       ****          
+173        ****          ****               ****               ****       ****       ****          
+174        ****          ****               ****               ****       ****       ****          
+175        ****          ****               ****               ****       ****       ****          
+176        ****          ****               ****               ****       ****       ****          
+177        ****          ****               ****               ****       ****       ****          
+178        ****          ****               ****               ****       ****       ****          
+179        ****          ****               ****               ****       ****       ****          
+180        ****          ****               ****               ****       ****       ****          
+181        ****          ****               ****               ****       ****       ****          
+182        ****          ****               ****               ****       ****       ****          
+183        ****          ****               ****               ****       ****       ****          
+184        ****          ****               ****               ****       ****       ****          
+185        ****          ****               ****               ****       ****       ****          
+186        ****          ****               ****               ****       ****       ****          
+187        ****          ****               ****               ****       ****       ****          
+188        ****          ****               ****               ****       ****       ****          
+189        ****          ****               ****               ****       ****       ****          
+190        ****          ****               ****               ****       ****       ****          
+191        ****          ****               ****               ****       ****       ****          
+192        ****          ****               ****               ****       ****       ****          
+193        ****          ****               ****               ****       ****       ****          
+194        ****          ****               ****               ****       ****       ****          
+195        ****          ****               ****               ****       ****       ****          
+196        ****          ****               ****               ****       ****       ****          
+197        ****          ****               ****               ****       ****       ****          
+198        ****          ****               ****               ****       ****       ****          
+199        ****          ****               ****               ****       ****       ****          
+200        ****          mus_bat_bat01 	    mus_sbat_bat01     ****       ****       "Alhambrie - Souboj 01"         
+201        ****          mus_bat_bat02 	    mus_sbat_bat02     ****       ****       "Alhambrie - Souboj 02"         
+202        ****          mus_bat_bat03 	    mus_sbat_bat03     ****       ****       "Alhambrie - Souboj 03"         
+203        ****          mus_bat_bat04 	    mus_sbat_bat04     ****       ****       "Alhambrie - Souboj 04"         
+204        ****          mus_bat_bat05 	    mus_sbat_bat05     ****       ****       "Alhambrie - Souboj 05"         
+205        ****          mus_bat_bat06 	    mus_sbat_bat06     ****       ****       "Alhambrie - Souboj 06"         
+206        ****          mus_bat_bat07 	    mus_sbat_bat07     ****       ****       "Alhambrie - Souboj 07"         
+207        ****          mus_bat_bat08 	    mus_sbat_bat08     ****       ****       "Alhambrie - Souboj 08"         
+208        ****          mus_bat_bat09 	    mus_sbat_bat09     ****       ****       "Alhambrie - Souboj 09"         
+209        ****          mus_bat_bat10 	    mus_sbat_bat10     ****       ****       "Alhambrie - Souboj 10"         
+210        ****          mus_bat_bat11 	    mus_sbat_bat11     ****       ****       "Alhambrie - Souboj 11"         
+211        ****          mus_bat_bat12 	    mus_sbat_bat12     ****       ****       "Alhambrie - Souboj 12"         
+212        ****          mus_bat_bat13 	    mus_sbat_bat13     ****       ****       "Alhambrie - Souboj 13"         
+213        ****          mus_bat_bat14 	    mus_sbat_bat14     ****       ****       "Alhambrie - Souboj 14"         
+214        ****          mus_bat_bat15 	    mus_sbat_bat15     ****       ****       "Alhambrie - Souboj 15"         
+215        ****          al_mus_castle01    ****               ****       ****       "Alhambrie - Hrad, InteriÈr 1"         
+216        ****          al_mus_castle02    ****               ****       ****       "Alhambrie - Hrad, ExteriÈr 1"         
+217        ****          al_mus_castle03    ****               ****       ****       "Alhambrie - Hrad, ExteriÈr 2"         
+218        ****          al_mus_castle04    ****               ****       ****       "Alhambrie - Hrad, InteriÈr 2"         
+219        ****          al_mus_castle05    ****               ****       ****       "Alhambrie - Hrad, InteriÈr 3"         
+220        ****          al_mus_castle06    ****               ****       ****       "Alhambrie - Hrad, InteriÈr 4"         
+221        ****          al_mus_castle07    ****               ****       ****       "Alhambrie - Hrad, ExteriÈr 3"         
+222        ****          al_mus_castle08    ****               ****       ****       "Alhambrie - Hrad, ExteriÈr 4"         
+223        ****          al_mus_caves01	    ****               ****       ****       "Alhambrie - JeskynÏ 1"         
+224        ****          al_mus_caves02	    ****               ****       ****       "Alhambrie - JeskynÏ 2"         
+225        ****          al_mus_caves03	    ****               ****       ****       "Alhambrie - JeskynÏ 3"         
+226        ****          al_mus_caves04	    ****               ****       ****       "Alhambrie - JeskynÏ 4"         
+227        ****          al_mus_cityext01   ****               ****       ****       "Alhambrie - MÏsto, Den 1"         
+228        ****          al_mus_cityext02   ****               ****       ****       "Alhambrie - MÏsto, Den 2"         
+229        ****          al_mus_cityext03   ****               ****       ****       "Alhambrie - MÏsto, Den 3"         
+230        ****          al_mus_cityext04   ****               ****       ****       "Alhambrie - MÏsto, Den 4"         
+231        ****          al_mus_cityext05   ****               ****       ****       "Alhambrie - MÏsto, Den 5"         
+232        ****          al_mus_cityext06   ****               ****       ****       "Alhambrie - MÏsto, Den 6"         
+233        ****          al_mus_cityext07   ****               ****       ****       "Alhambrie - MÏsto, Den 7"         
+234        ****          al_mus_cityext08   ****               ****       ****       "Alhambrie - MÏsto, Den 8"         
+235        ****          al_mus_cityext09   ****               ****       ****       "Alhambrie - MÏsto, Den 9"         
+236        ****          al_mus_cityext10   ****               ****       ****       "Alhambrie - MÏsto, Noc 1"         
+237        ****          al_mus_cityext11   ****               ****       ****       "Alhambrie - MÏsto, Noc 2"         
+238        ****          al_mus_cityint01   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 1"         
+239        ****          al_mus_cityint02   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 2"         
+240        ****          al_mus_cityint03   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 3"         
+241        ****          al_mus_cityint04   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 4"         
+242        ****          al_mus_cityint05   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 5"         
+243        ****          al_mus_cityint06   ****               ****       ****       "Alhambrie - MÏsto, InteriÈr 6"         
+244        ****          al_mus_crypt01	    ****               ****       ****       "Alhambrie - Krypta 1"     
+245        ****          al_mus_crypt02	    ****               ****       ****       "Alhambrie - Krypta 2"     
+246        ****          al_mus_crypt03	    ****               ****       ****       "Alhambrie - Krypta 3"     
+247        ****          al_mus_crypt04	    ****               ****       ****       "Alhambrie - Krypta 4"     
+248        ****          al_mus_crypt05	    ****               ****       ****       "Alhambrie - Krypta 5"     
+249        ****          al_mus_crypt06	    ****               ****       ****       "Alhambrie - Krypta 6"     
+250        ****          al_mus_crypt07	    ****               ****       ****       "Alhambrie - Krypta 7"     
+251        ****          al_mus_crypt08	    ****               ****       ****       "Alhambrie - Krypta 8"     
+252        ****          al_mus_crypt09	    ****               ****       ****       "Alhambrie - Krypta 9"     
+253        ****          al_mus_dungeon01   ****               ****       ****       "Alhambrie - Dungeon 1"     
+254        ****          al_mus_dungeon02   ****               ****       ****       "Alhambrie - Dungeon 2"     
+255        ****          al_mus_forest01    ****               ****       ****       "Alhambrie - Les, Den 1"     
+256        ****          al_mus_forest02    ****               ****       ****       "Alhambrie - Les, Den 2"     
+257        ****          al_mus_forest03    ****               ****       ****       "Alhambrie - Les, Noc 1"     
+258        ****          al_mus_forest04    ****               ****       ****       "Alhambrie - Les, Noc 2"     
+259        ****          al_mus_heaven01    ****               ****       ****       "Alhambrie - R·j 1"     
+260        ****          al_mus_heaven02    ****               ****       ****       "Alhambrie - R·j 2"     
+261        ****          al_mus_heaven03    ****               ****       ****       "Alhambrie - R·j 3"     
+262        ****          al_mus_heaven04    ****               ****       ****       "Alhambrie - R·j 4"     
+263        ****          al_mus_heaven05    ****               ****       ****       "Alhambrie - R·j 5"     
+264        ****          al_mus_hills01	    ****               ****       ****       "Alhambrie - Kopce, Den 1"     
+265        ****          al_mus_hills02	    ****               ****       ****       "Alhambrie - Kopce, Den 2"     
+266        ****          al_mus_hills03	    ****               ****       ****       "Alhambrie - Kopce, Noc 1"     
+267        ****          al_mus_inferno01   ****               ****       ****       "Alhambrie - Peklo 1"     
+268        ****          al_mus_inferno02   ****               ****       ****       "Alhambrie - Peklo 2"     
+269        ****          al_mus_inferno03   ****               ****       ****       "Alhambrie - Peklo 3"     
+270        ****          al_mus_inferno04   ****               ****       ****       "Alhambrie - Peklo 4"     
+271        ****          al_mus_rural01	    ****               ****       ****       "Alhambrie - Venkov, Den 1"     
+272        ****          al_mus_rural02	    ****               ****       ****       "Alhambrie - Venkov, Den 2"     
+273        ****          al_mus_rural03	    ****               ****       ****       "Alhambrie - Venkov, Den 3"     
+274        ****          al_mus_rural04	    ****               ****       ****       "Alhambrie - Venkov, Den 4"     
+275        ****          al_mus_rural05	    ****               ****       ****       "Alhambrie - Venkov, Noc 1"     
+276        ****          al_mus_rural06	    ****               ****       ****       "Alhambrie - Venkov, Noc 2"     
+277        ****          al_mus_rural07	    ****               ****       ****       "Alhambrie - Venkov, Noc 3"     
+278        ****          al_mus_rural08	    ****               ****       ****       "Alhambrie - Venkov, Noc 4"     
+279        ****          al_mus_rural09	    ****               ****       ****       "Alhambrie - Venkov, Den 5"     
+280        ****          al_mus_rural10	    ****               ****       ****       "Alhambrie - Venkov, Noc 5"     
+281        ****          al_mus_sewers01    ****               ****       ****       "Alhambrie - Stoky 1"     
+282        ****          al_mus_sewers02    ****               ****       ****       "Alhambrie - Stoky 2"     
+283        ****          al_mus_sewers03    ****               ****       ****       "Alhambrie - Stoky 3"     
+284        ****          al_mus_sewers04    ****               ****       ****       "Alhambrie - Stoky 4"     
+285        ****          al_mus_swamp01	    ****               ****       ****       "Alhambrie - Baûina 1"     
+286        ****          al_mus_swamp02	    ****               ****       ****       "Alhambrie - Baûina 2"     
+287        ****          al_mus_tavern01    ****               ****       ****       "Alhambrie - Hospoda 1"     
+288        ****          al_mus_tavern02    ****               ****       ****       "Alhambrie - Hospoda 2"     
+289        ****          al_mus_tavern03    ****               ****       ****       "Alhambrie - Hospoda 3"     
+290        ****          al_mus_tavern04    ****               ****       ****       "Alhambrie - Hospoda 4"     
+291        ****          al_mus_tavern05    ****               ****       ****       "Alhambrie - Hospoda 5"     
+292        ****          al_mus_tavern06    ****               ****       ****       "Alhambrie - Hospoda 6"     
+293        ****          al_mus_temple01    ****               ****       ****       "Alhambrie - Chr·m 1"     
+294        ****          al_mus_temple02    ****               ****       ****       "Alhambrie - Chr·m 2"     
+295        ****          al_mus_temple03    ****               ****       ****       "Alhambrie - Chr·m 3"     
+296        ****          al_mus_temple04    ****               ****       ****       "Alhambrie - Chr·m 4"     
+297        ****          al_mus_temple05    ****               ****       ****       "Alhambrie - Chr·m 5"     
+298        ****          al_mus_temple06    ****               ****       ****       "Alhambrie - Chr·m 6"
+299 ****        ****             ****             ****     ****     ****                             
+300 ****        ****             ****             ****     ****     ****                             
+301 ****        br_mus_loutna_01 ****             ****     ****     "2:12 »ernÈ oËi"                 
+302 ****        br_mus_loutna_02 ****             ****     ****     "2:38 Lehkost bytÌ"              
+303 ****        br_mus_loutna_03 ****             ****     ****     "1:40 LoÔka"                     
+304 ****        br_mus_loutna_04 ****             ****     ****     "1:24 PohleÔ mi do oËÌ"          
+305 ****        br_mus_loutna_05 ****             ****     ****     "1:38 Ruk·vy"                    
+306 ****        br_mus_loutna_06 ****             ****     ****     "2:05 S tebou, m˘j mil˝"         
+307 ****        br_mus_loutna_07 ****             ****     ****     "2:30 Galliard"                  
+308 ****        br_mus_loutna_08 ****             ****     ****     "1:37 Panenky u hr·dku"          
+309 ****        br_mus_loutna_09 ****             ****     ****     "1:12 Dorensk˝ hvozd"            
+310 ****        br_mus_loutna_10 ****             ****     ****     "1:29 Favaryt"                   
+311 ****        br_mus_loutna_11 ****             ****     ****     "2:19 Pod lesÌkem na ml·zÌ"      
+312 ****        br_mus_loutna_12 ****             ****     ****     "0:47 Faleön˝ Niegl"             
+313 ****        br_mus_loutna_13 ****             ****     ****     "4:12 Pod stromy"                
+314 ****        br_mus_loutna_14 ****             ****     ****     "1:25 Rozmarn·"                  
+315 ****        br_mus_loutna_15 ****             ****     ****     "1:44 Ve stÌnu strom˘ kdysi"     
+316 ****        br_mus_loutna_16 ****             ****     ****     "2:23 Allison Gross"             
+317 ****        br_mus_loutna_17 ****             ****     ****     "1:05 Margali"                   
+318 ****        br_mus_loutna_18 ****             ****     ****     "1:55 Putov·nÌ"                  
+319 ****        br_mus_loutna_19 ****             ****     ****     "1:55 LesnÌ tanec"               
+320 ****        br_mus_loutna_20 ****             ****     ****     "3:55 MandolÌna"                 
+321 ****        br_mus_loutna_21 ****             ****     ****     "1:16 Rozhodov·nÌ"               
+322 ****        br_mus_loutna_22 ****             ****     ****     "2:52 Gavotta"                   
+323 ****        br_mus_loutna_23 ****             ****     ****     "1:24 Patron"                    
+324 ****        br_mus_loutna_24 ****             ****     ****     "5:08 Mistrovsk·"                
+325 ****        br_mus_loutna_25 ****             ****     ****     "3:35 Terega"                    
+326 ****        br_mus_harfa_01  ****             ****     ****     "1:42 ZamyölenÌ"                 
+327 ****        br_mus_harfa_02  ****             ****     ****     "2:27 V DoubkovÏ na ja¯e"        
+328 ****        br_mus_harfa_03  ****             ****     ****     "1:52 Kr·sn· Alienor"            
+329 ****        br_mus_harfa_04  ****             ****     ****     "2:17 Kde jsem nechal oËi"       
+330 ****        br_mus_harfa_05  ****             ****     ****     "3:02 V sedle"                   
+331 ****        br_mus_harfa_06  ****             ****     ****     "2:29 Na hrotu kopÌ"             
+332 ****        br_mus_harfa_07  ****             ****     ****     "3:18 VzpomÌnka na mrtvÈ hrdiny" 
+333 ****        br_mus_harfa_08  ****             ****     ****     "2:51 Na tv˝ch k¯Ìdlech"         
+334 ****        br_mus_harfa_09  ****             ****     ****     "3:43 KavalÌr a panÌ"            
+335 ****        br_mus_harfa_10  ****             ****     ****     "3:20 RannÌ ticho"               
+336 ****        br_mus_harfa_11  ****             ****     ****     "2:50 Toulky"                    
+337 ****        br_mus_harfa_12  ****             ****     ****     "3:43 Pouta l·sky"               
+338 ****        br_mus_harfa_13  ****             ****     ****     "3:44 Kerridwen"                 
+339 ****        br_mus_harfa_14  ****             ****     ****     "3:43 ZaËarovan˝ les"            
+340 ****        br_mus_harfa_15  ****             ****     ****     "3:40 P¯es slzy"                 
+341 ****        br_mus_harfa_16  ****             ****     ****     "3:00 ⁄toËiötÏ"                  
+342 ****        br_mus_harfa_17  ****             ****     ****     "4:38 Sen harfenÌka"             
+343 ****        br_mus_harfa_18  ****             ****     ****     "1:34 Jen tak na smutek"         
+344 ****        br_mus_harfa_19  ****             ****     ****     "1:41 Ztr·cÌm tÏ"                
+345 ****        br_mus_harfa_20  ****             ****     ****     "3:00 Maelly"                    
+346 ****        br_mus_harfa_21  ****             ****     ****     "1:15 Nikdy nejsem s·m"          
+347 ****        br_mus_harfa_22  ****             ****     ****     "2:21 Nem·m jen jednu panenku"   
+348 ****        br_mus_harfa_23  ****             ****     ****     "3:27 Triumf·lnÌ pochod"         
+349 ****        br_mus_harfa_24  ****             ****     ****     "3:28 K tanci"                   
+350 ****        br_mus_harfa_25  ****             ****     ****     "2:07 Petries a Atelheid"        
+351 ****        br_mus_harfa_26  ****             ****     ****     "3:22 V zahradÏ EraninÏ"         
+352 ****        br_mus_fletna_01 ****             ****     ****     "1:23 Divokej tymi·n"            
+353 ****        br_mus_fletna_02 ****             ****     ****     "2:00 Poh¯eb kr·le"              
+354 ****        br_mus_fletna_03 ****             ****     ****     "6:18 Nad lesem bambusu"         
+355 ****        br_mus_fletna_04 ****             ****     ****     "2:33 OdpoËinek"                 
+356 ****        br_mus_fletna_05 ****             ****     ****     "2:17 Touha po nadÏji"           
+357 ****        br_mus_fletna_06 ****             ****     ****     "1:10 Noc na pl·nÌch"            
+358 ****        br_mus_fletna_07 ****             ****     ****     "4:57 Ostrov volnosti"           
+359 ****        br_mus_fletna_08 ****             ****     ****     "2:44 FlÈtna z bambusu"          
+360 ****        br_mus_fletna_09 ****             ****     ****     "1:19 MedvÏdÌ tanec"             
+361 ****        br_mus_fletna_10 ****             ****     ****     "2:27 Poûehn·nÌ"                 
+362 ****        br_mus_fletna_11 ****             ****     ****     "0:50 LouËenÌ"                   
+363 ****        br_mus_fletna_12 ****             ****     ****     "1:18 Tam do kopc˘"              
+364 ****        br_mus_fletna_13 ****             ****     ****     "5:30 Sen Prian˘v"               
+365 ****        br_mus_fletna_14 ****             ****     ****     "1:27 Z v˝öky pt·k˘"             
+366 ****        br_mus_fletna_15 ****             ****     ****     "2:23 ÿÌËnÌ tanec"               
+367 ****        br_mus_fletna_16 ****             ****     ****     "1:27 Pod mÏsÌcem"               
+368 ****        br_mus_fletna_17 ****             ****     ****     "3:23 Alansujsk· vrchovina"      
+369 ****        br_mus_fletna_18 ****             ****     ****     "3:13 LapaË sn˘"                 
+370 ****        br_mus_fletna_19 ****             ****     ****     "2:20 Josieho noc"               
+371 ****        br_mus_fletna_20 ****             ****     ****     "2:05 V popelu"                  
+372 ****        br_mus_fletna_21 ****             ****     ****     "4:41 Chlapci od ¯eky"           
+373 ****        br_mus_klavir_01 ****             ****     ****     "4:40 SoutÏzkou"                 
+374 ****        br_mus_klavir_02 ****             ****     ****     "4:21 Pod vrbou"                 
+375 ****        br_mus_klavir_03 ****             ****     ****     "2:33 Tallis Meyer"              
+376 ****        br_mus_klavir_04 ****             ****     ****     "3:40 NÏco zaËÌn·"               
+377 ****        br_mus_klavir_05 ****             ****     ****     "1:35 Touha po nadÏji"           
+378 ****        br_mus_klavir_06 ****             ****     ****     "3:05 Paprsek"                   
+379 ****        br_mus_klavir_07 ****             ****     ****     "3:44 St¯Ìbrn˝ pt·Ëek"           
+380 ****        br_mus_klavir_08 ****             ****     ****     "2:23 Melancholie"               
+381 ****        br_mus_klavir_09 ****             ****     ****     "5:09 Krystal"                   
+382 ****        br_mus_klavir_10 ****             ****     ****     "6:27 PÌseÚ pro tebe"            
+383 ****        br_mus_klavir_11 ****             ****     ****     "2:40 P˝cha"                     
+384 ****        br_mus_klavir_12 ****             ****     ****     "2:33 Domlouv·nÌ"                
+385 ****        br_mus_klavir_13 ****             ****     ****     "4:29 U maj·ku"                  
+386 ****        br_mus_klavir_14 ****             ****     ****     "3:22 Tul·k"                     
+387 ****        br_mus_klavir_15 ****             ****     ****     "2:55 PoslednÌ den"              
+388 ****        br_mus_klavir_16 ****             ****     ****     "1:54 Lucidovy sny"              
+389 ****        br_mus_klavir_17 ****             ****     ****     "2:20 SnÏnÌ"                     
+390 ****        br_mus_klavir_18 ****             ****     ****     "4:38 P¯edehra"                  
+391 ****        br_mus_klavir_19 ****             ****     ****     "3:00 VzpomÌnky"                 
+392 ****        br_mus_klavir_20 ****             ****     ****     "3:09 U Hrumbur·ce"              
+393 ****        br_mus_klavir_21 ****             ****     ****     "1:56 Samota v hor·ch"           
+394 ****        br_mus_klavir_22 ****             ****     ****     "3:48 More˘v z·kon"              
+395 ****        br_mus_klavir_23 ****             ****     ****     "4:10 Mot˝lÌ sen"                
+396 ****        br_mus_klavir_24 ****             ****     ****     "2:26 äance"                     
+397 ****        br_mus_klavir_25 ****             ****     ****     "4:10 Nocturne"                  
+398 ****        br_mus_klavir_26 ****             ****     ****     "3:11 Pod hvÏzdami"              
+399 ****        br_mus_klavir_27 ****             ****     ****     "3:09 N·vraty"                   
+400 ****        br_mus_klavir_28 ****             ****     ****     "4:27 Promen·da"                 
+401 ****        br_mus_klavir_29 ****             ****     ****     "3:39 Julietta"                  
+402 ****        br_mus_klavir_30 ****             ****     ****     "2:58 PoslenÌ v˝spa"             
+403 ****        br_mus_klavir_31 ****             ****     ****     "3:28 Improvizace"               
+404 ****        br_mus_klavir_32 ****             ****     ****     "4:33 Balanc"                    
+405 ****        br_mus_klavir_33 ****             ****     ****     "3:01 ObÏù zimÏ"                 
+406 ****        br_mus_klavir_34 ****             ****     ****     "3:30 ZimnÌ krajina"             
+407 ****        br_mus_klavir_35 ****             ****     ****     "3:07 Po v¯esoviöti"             
+408 ****        br_mus_klavir_36 ****             ****     ****     "1:38 Georgiana"                 
+409 ****        br_mus_klavir_37 ****             ****     ****     "4:56 Mistrovsk·"                
+410 ****        br_mus_kytara_01 ****             ****     ****     "1:35 SvÌt·nÌ"                   
+411 ****        br_mus_kytara_02 ****             ****     ****     "2:54 UkolÈbavka"                
+412 ****        br_mus_kytara_03 ****             ****     ****     "3:11 Albeniz"                   
+413 ****        br_mus_kytara_04 ****             ****     ****     "3:45 ZamyölenÌ"                 
+414 ****        br_mus_kytara_05 ****             ****     ****     "3:42 K p¯ÌbÏh˘m vyhr·v·m"       
+415 ****        br_mus_kytara_06 ****             ****     ****     "4:21 Dom˘"                      
+416 ****        br_mus_kytara_07 ****             ****     ****     "2:57 JiûnÌ vÌtr"                
+417 ****        br_mus_kytara_08 ****             ****     ****     "4:28 Koruna vÏtru"              
+418 ****        br_mus_kytara_09 ****             ****     ****     "3:06 Soledat"                   
+419 ****        br_mus_kytara_10 ****             ****     ****     "3:44 VypravÏË"                  
+420 ****        br_mus_kytara_11 ****             ****     ****     "2:26 Danilly tanËÌ"             
+421 ****        br_mus_kytara_12 ****             ****     ****     "2:04 DÏtstvÌ"                   
+422 ****        br_mus_kytara_13 ****             ****     ****     "2:09 PouötnÌ sk·ly"             
+423 ****        br_mus_kytara_14 ****             ****     ****     "2:41 Soleas"                    
+424 ****        br_mus_kytara_15 ****             ****     ****     "2:46 Mal· Rowena"               
+425 ****        br_mus_kytara_16 ****             ****     ****     "2:21 VÏtviËka rozmar˝ny"        
+426 ****        br_mus_kytara_17 ****             ****     ****     "5:06 ZatmÏnÌ mÏsÌce"            
+427 ****        br_mus_kytara_18 ****             ****     ****     "3:55 Rodrigo"                   
+428 ****        br_mus_kytara_19 ****             ****     ****     "1:57 Rej svÏtel"                
+429 ****        br_mus_kytara_20 ****             ****     ****     "5:15 P¯ed branami mÏsta"        
+430 ****        br_mus_kytara_21 ****             ****     ****     "3:46 Anjela"                    
+431 ****        br_mus_kytara_22 ****             ****     ****     "4:12 P¯ekvapen˝ cik·n"          
+432 ****        br_mus_kytara_23 ****             ****     ****     "2:06 Ve tv˝ch oËÌch"            
+433 ****        br_mus_kytara_24 ****             ****     ****     "3:03 NenÌ dne bez noci"         
+434 ****        br_mus_kytara_25 ****             ****     ****     "6:04 DÈöt na st¯eöe"            
+435 ****        br_mus_kytara_26 ****             ****     ****     "2:05 Vyhr·v·m slavÌk˘m"         
+436 ****        br_mus_kytara_27 ****             ****     ****     "4:23 Signorie"                  
+437 ****        br_mus_kytara_28 ****             ****     ****     "7:36 Corrientes"                
+438 ****        br_mus_kytara_29 ****             ****     ****     "3:02 Do rytmu"                  
+439 ****        br_mus_kytara_30 ****             ****     ****     "4:26 Tanec jara"                
+440 ****        br_mus_kytara_31 ****             ****     ****     "4:50 Kr·ska z pouötnÌho mÏsta"  
+441 ****        br_mus_kytara_32 ****             ****     ****     "4:41 Seren·da"                  
+442 ****        br_mus_kytara_33 ****             ****     ****     "6:53 Majströtik"                
+443 ****        br_mus_kytara_34 ****             ****     ****     "1:15 Kolib¯Ìk"                  
+444 ****        br_mus_kytara_35 ****             ****     ****     "3:36 PrvnÌ jÌzda"               
+445 ****        br_mus_housle_01 ****             ****     ****     "3:26 VelkÈ mo¯e"                
+446 ****        br_mus_housle_02 ****             ****     ****     "2:00 Vesel˝ houslista"          
+447 ****        br_mus_housle_03 ****             ****     ****     "1:16 Pod horami"                
+448 ****        br_mus_housle_04 ****             ****     ****     "3:20 Prach a popel"             
+449 ****        br_mus_housle_05 ****             ****     ****     "0:37 Carolan˘v sen"             
+450 ****        br_mus_housle_06 ****             ****     ****     "3:22 Srdce a dech"              
+451 ****        br_mus_housle_07 ****             ****     ****     "2:06 Dopis milÈmu"              
+452 ****        br_mus_housle_08 ****             ****     ****     "2:36 Pl·Ë nad Karathou"         
+453 ****        br_mus_housle_09 ****             ****     ****     "1:47 N·¯ek nad mrtv˝m"          
+454 ****        br_mus_housle_10 ****             ****     ****     "3:29 Pt·Ëek v Prahvozdu"        
+455 ****        br_mus_housle_11 ****             ****     ****     "3:53 éalozpÏv za hrabÏte"
+456 ****        br_mus_housle_12 ****             ****     ****     "4:09 RudÈ kvÏty"
+457 ****        br_mus_housle_13 ****             ****     ****     "4:28 Golem a krejËovsk· panna"
+458 ****        br_mus_housle_14 ****             ****     ****     "1:55 ZelenÈ vröky"
+459 ****        br_mus_housle_15 ****             ****     ****     "2:40 »ern˝ lotos"
+460 ****        br_mus_housle_16 ****             ****     ****     "4:08 Sedmero mo¯Ì"
+461 ****        br_mus_housle_17 ****             ****     ****     "2:51 O vÏrnÈm rytÌ¯i Balianovi"
+462 ****        br_mus_housle_18 ****             ****     ****     "2:33 Lacarant˘v köaft"
+463 ****        br_mus_housle_19 ****             ****     ****     "0:43 RytÌ¯i kulatÈho sudu"
+464 ****        br_mus_housle_20 ****             ****     ****     "1:50 Lareth"
+465 ****        br_mus_fletna_23 ****             ****     ****     "1:16 Duch pl·nÌ"
+466 ****        br_mus_klavir_38 ****             ****     ****     "2:00 Pomsta ËarodÏjky"
+467 ****        br_mus_buben_01  ****             ****     ****     "5:25 Buben"
+468 ****        br_mus_buben_02  ****             ****     ****     "5:41 Pochod genasi"
+469 ****        br_mus_buben_03  ****             ****     ****     "4:49 HadÌ tanec"
+470 ****        br_mus_buben_04  ****             ****     ****     "3:54 PÌseÚ ohnÏ"
+471 ****        br_mus_buben_05  ****             ****     ****     "4:50 Lov"
+472 ****        br_mus_buben_06  ****             ****     ****     "6:32 Let orla"
+473 ****        br_mus_buben_07  ****             ****     ****     "4:49 ÿeË Prahvozdu"
+474 ****        br_mus_buben_08  ****             ****     ****     "6:30 PÌseÚ dÏtÌ pramene"
+475 ****        br_mus_buben_09  ****             ****     ****     "3:44 DeötÏ pouötÏ"
+476 ****        br_mus_buben_10  ****             ****     ****     "3:23 Ritu·lnÌ"

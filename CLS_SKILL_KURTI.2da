@@ -1,0 +1,25 @@
+2DA V2.0
+
+   SkillLabel     SkillIndex ClassSkill 
+0  Concentration  1          0          
+1  DisableTrap    2          0          
+2  Discipline     3          0          
+3  Heal           4          0          
+4  Hide           5          1          
+5  Listen         6          1          
+6  Lore           7          1          
+7  MoveSilently   8          1          
+8  OpenLock       9          0          
+9  Parry          10         0          
+10 Persuade       12         1          
+11 PickPocket     13         1          
+12 Search         14         0          
+13 SetTrap        15         0          
+14 Spellcraft     16         0          
+15 Spot           17         1          
+16 Taunt          18         1          
+17 Appraise       20         1          
+18 Tumble         21         1          
+19 Bluff          23         1          
+20 Intimidate     24         1          
+21 Ride           27         0          

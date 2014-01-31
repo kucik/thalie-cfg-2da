@@ -1,0 +1,8 @@
+2DA V2.0
+
+  LABEL         ReqType ReqParam1     ReqParam2 
+0 AnimalEmpathy SKILL   0             5         
+1 Spot          SKILL   7             5         
+5 Blooded       FEAT    379           ****      
+6 Base_Attack   BAB     6             ****      
+7 ScriptVar     VAR     X1_AllowHoral 0         

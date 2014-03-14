@@ -62,7 +62,7 @@
 58  GrSpllFcsIll                                  398       1    -1             0      
 59  GrSpllFcsNec                                  399       1    -1             0      
 60  GrSpllFcsTran                                 400       1    -1             0      
-61  FEAT_EPIC_BANE_OF_ENEMIES                     855       1    21             0      
+61  FEAT_EPIC_BANE_OF_ENEMIES                     855       1    20             0      
 62  FEAT_EPIC_BLINDING_SPEED                      491       1    -1             1      
 63  FEAT_EPIC_PROWESS                             584       1    -1             0      
 64  FEAT_EPIC_WEAPON_FOCUS_CLUB                   619       1    -1             0      

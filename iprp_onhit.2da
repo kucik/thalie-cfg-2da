@@ -1,0 +1,33 @@
+2DA V2.0
+
+       Name            Label            Cost         Param1ResRef
+0      986             Sleep            1.25         1
+1      987             Stun             1            1                  
+2      988             Hold             1.25         1                  
+3      989             Confusion        0.75         1                  
+4      ****            ****             ****         ****                  
+5      991             Daze             0.75         1                  
+6      992             Doom             0.75         1                  
+7      993             Fear             0.75         1                  
+8      994             Knock            0.75         ****               
+9      995             Slow             0.75         1                  
+10     996             LesserDispel     1            ****               
+11     997             DispelMagic      1.5          ****               
+12     998             GreaterDispel    2            ****               
+13     999             MordsDisjunction 4            ****               
+14     1000            Silence          0.75         1                  
+15     1001            Deafness         0.75         1                  
+16     1002            Blindness        1            1                  
+17     1003            LevelDrain       1.25         ****               
+18     1004            AbilityDrain     0.5          2                  
+19     1005            ItemPoison       0.25         10                 
+20     1006            Disease          0.25         6                  
+21     1007            SlayRG           1.5          5                  
+22     1008            SlayAG           2            3                  
+23     1009            SlayAlignment    1.75         4
+24     740             Vorpal           2.5          ****
+25     741             Wounding         0.25         ****
+              
+
+
+

@@ -24,8 +24,8 @@
 20 FEAT_CERNOKNEZNIK_INVOKACE2_OSLEPUJICI_ESENCE    1447      2    -1             1      
 21 FEAT_CERNOKNEZNIK_INVOKACE2_PEKELNA_ESENCE       ****      **** ****           ****   
 22 FEAT_CERNOKNEZNIK_INVOKACE2_MRAZIVA_ESENCE       1449      2    -1             1      
-23 FEAT_CERNOKNEZNIK_INVOKACE2_PODMAN?NÍ            1450      2    -1             1      
-24 FEAT_CERNOKNEZNIK_INVOKACE2_ZATRACENÍ            1451      2    -1             1      
+23 FEAT_CERNOKNEZNIK_INVOKACE2_PODMAN?Nï¿½            1450      2    -1             1      
+24 FEAT_CERNOKNEZNIK_INVOKACE2_ZATRACENï¿½            1451      2    -1             1      
 25 FEAT_CERNOKNEZNIK_INVOKACE2_DESIVE_CHYCENI       1452      2    -1             1      
 26 FEAT_CERNOKNEZNIK_INVOKACE2_UNIK_ZE_SCENY        1453      2    -1             1      
 27 FEAT_CERNOKNEZNIK_INVOKACE2_NEMRTVY_SPOLECNIK    1454      2    -1             1      
@@ -52,3 +52,4 @@
 48 WeapProfSim                                      46        3    1              0      
 49 WeapProfMar                                      45        0    -1             0      
 50 WeapProfExotic                                   44        0    -1             0      
+51 FEAT_HORSE_MENU                                  1089      3    1              1      

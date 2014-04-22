@@ -228,3 +228,10 @@
 224 FEAT_EPIC_ENERGY_RESISTANCE_SONIC_8            580       1    -1             0      
 225 FEAT_EPIC_ENERGY_RESISTANCE_SONIC_9            581       1    -1             0      
 226 FEAT_EPIC_ENERGY_RESISTANCE_SONIC_10           582       1    -1             0      
+227 WeapProfMar                                    45        3    1              0      
+228 WeapProfSim                                    46        3    1              0      
+229 ArmProfLgt                                     3         3    1              0      
+230 ArmProfMed                                     4         3    1              0      
+231 Shield                                         32        3    1              0      
+232 ZACHAZENI_S_PAVEZOU                            1319      3    4              0      
+233 ArmProfHvy                                     2         3    4              0      

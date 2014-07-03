@@ -52,4 +52,5 @@
 48         WeapFocThGoad       FEATOR    1132             ****
 49         WeapFocThwindFireW  FEATOR    1133             ****
 50         WeapFocThMaugDS     FEATOR    1134             ****
-51         ScriptVar           VAR       X2_AllowKensei   0           
+51         WeapFocTrident      FEATOR    1072             ****      
+52         ScriptVar           VAR       X2_AllowWM       0           

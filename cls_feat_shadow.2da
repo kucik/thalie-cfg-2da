@@ -5,7 +5,7 @@
 1  Quicken                              29        0    -1             0      
 2  TwoWeap                              41        0    -1             0      
 3  Ambidex                              1         0    -1             0      
-4  HIDE_IN_PLAIN_SIGHT                  433       3    11             0      
+4  HIDE_IN_PLAIN_SIGHT                  433       3    10             0      
 5  SHADOW_DAZE                          434       3    3              1      
 6  SUMMON_SHADOW                        435       3    3              1      
 7  SHADOW_EVADE                         436       3    1              1      
@@ -71,3 +71,6 @@
 67 FEAT_EPIC_GREAT_DEXTERITY_8          791       1    -1             0      
 68 FEAT_EPIC_GREAT_DEXTERITY_9          792       1    -1             0      
 69 FEAT_EPIC_GREAT_DEXTERITY_10         793       1    -1             0      
+70 EPIC_SHADOW_DAZE_I                   1610      1    -1             0      
+71 EPIC_SHADOW_DAZE_II                  1611      1    -1             0      
+72 EPIC_SHADOW_DAZE_III                 1612      1    -1             0      

@@ -6,6 +6,5 @@
 2 Intimidate       SKILL   24           5         
 3 PowerAttack      FEAT    28           ****      
 4 Cleave           FEAT    6            ****      
-5 WeapProfVychodni FEAT    1534         ****      
-6 ImproveInit      FEAT    377          ****      
-7 ScriptVar        VAR     X1_AllowSamu 0         
+5 ImproveInit      FEAT    377          ****      
+6 ScriptVar        VAR     X1_AllowSamu 0         

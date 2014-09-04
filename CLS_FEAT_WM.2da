@@ -5,9 +5,9 @@
 1   FEAT_WEAPON_OF_CHOICE_KAMA                     880       2    1              0      
 2   FEAT_WEAPON_OF_CHOICE_KUKRI                    881       2    1              0      
 3   FEAT_KI_DAMAGE                                 882       3    1              1      
-4   FEAT_INCREASE_MULTIPLIER                       883       3    20             0      
+4   FEAT_INCREASE_MULTIPLIER                       883       3    15             0      
 5   ****                                           ****      **** ****           ****   
-6   FEAT_KI_CRITICAL                               885       3    15             0      
+6   FEAT_KI_CRITICAL                               885       3    10             0      
 7   FEAT_WEAPON_OF_CHOICE_CLUB                     919       2    1              0      
 8   FEAT_WEAPON_OF_CHOICE_DAGGER                   920       2    1              0      
 9   FEAT_WEAPON_OF_CHOICE_LIGHTMACE                921       2    1              0      
@@ -187,7 +187,7 @@
 183 ****                                           ****      **** ****           ****   
 184 ImpInit                                        377       3    2              0      
 185 FEAT_WM_SUPERRIOR                              1286      3    3              0      
-186 FEAT_WM_AC_BONUS                               1287      3    3              0      
+186 FEAT_WM_AC_BONUS                               1287      3    15             0      
 187 FEAT_KENSAI_AKROBAT                            1353      3    1              0      
 188 FEAT_EPIC_GREAT_STRENGTH_1                     814       1    -1             0      
 189 FEAT_EPIC_GREAT_STRENGTH_2                     815       1    -1             0      

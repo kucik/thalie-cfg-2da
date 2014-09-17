@@ -1,0 +1,120 @@
+2DA V2.0
+
+    sign name                        appearance soundset portrait        
+0   medv Byk                         1008       22       po_longhorn_    
+1   medv "Cooshee (elfi pes)"        1391       27       po_cooshee_     
+2   medv Mastif                      1396       27       po_mastiff_     
+3   medv "Medved brylaty"            1293       7        po_spectbear_   
+4   medv "Medved grizzly"            204        7        po_bearbrwn_    
+5   medv "Medved ledni"              14         7        po_bearpolar_   
+6   medv "Medved medovy"             1292       7        po_bearblck_    
+7   medv "Medved, cerny"             12         7        po_bearblck_    
+8   medv "Medved, hnedy"             13         7        po_bearbrwn_    
+9   medv "Medved, lity"              15         8        po_beardire_    
+10  medv "Medved, panda"             1295       7        po_panda_       
+11  pant Levhart                     93         19       po_leopard_     
+12  pant "Levhart, snezny"           1302       15       po_cat_crag_    
+13  pant "Levhart, tmavy"            1303       19       po_leopard_     
+14  pant Panter                      202        19       po_blkpanther_  
+15  pant "Panter, demonicky"         306        19       po_cat_mpanth_  
+16  pant Puma                        203        15       po_cat_crag_    
+17  orel Havran/Vrana                145        77       po_a_bird_rav_  
+18  orel Jestrab                     144        38       po_a_bird_rap_  
+19  orel "Orel (velky model)"        1275       38       po_eagle_       
+20  orel "Papouch, cerveny"          7          452      po_poly_        
+21  orel "Papouch, sedy"             1959       452      po_poly_        
+22  orel "Papouch, zeleny"           1962       452      po_poly_        
+23  orel Ptakojester                 1072       332      po_wyrmlred_    
+24  orel "Sova, cerna"               1952       38       po_a_bird_rap_  
+25  orel "Sova, hneda"               1947       38       po_a_bird_rap_  
+26  orel "Sova, snezna"              1948       38       po_a_bird_rap_  
+27  orel "Sova, svetla"              1949       38       po_a_bird_rap_  
+28  orel "Sova, seda"                1951       38       po_a_bird_rap_  
+29  orel "Sova, velka"               1950       38       po_a_bird_rap_  
+30  div  Divocak                     21         10       po_boar_        
+31  div  "Divocak, cerny"            1029       10       po_boar_        
+32  div  "Divocak, cerny, lity"      1884       11       po_direboar_    
+33  div  "Divocak, lity"             22         11       po_direboar_    
+34  div  "Divocak, svetle hnedy"     1028       10       po_boar_        
+35  div  "Divocak, sedy"             1027       10       po_boar_        
+36  div  "Divocak, tmave hnedy"      1026       10       po_boar_        
+37  div  Jelen                       35         24       po_deer_        
+38  div  "Jelen, bily"               37         24       po_deerwhite_   
+39  div  Jezevec                     8          4        po_badger_      
+40  div  "Jezevec, lity"             9          5        po_direbadger_  
+41  div  "Krysa, lita"               387        250      po_direrat_     
+42  tygr Jaguar                      98         19       po_cat_jag_     
+43  tygr "Lev, samice"               97         18       po_lion_        
+44  tygr "Skalni kocka"              94         19       po_cat_         
+45  tygr Tygr                        1299       15       po_tiger_       
+46  tygr "Tygr, bily"                1300       15       po_wtiger_      
+47  tygr "Tygr, lity"                95         16       po_diretiger_   
+48  vlk  "Cooshee (elfi pes), mensi" 1390       27       po_cooshee_     
+49  vlk  Dalmatin                    1392       27       po_dalm_        
+50  vlk  Dobrman                     1393       27       po_dobie_       
+51  vlk  Husky                       1394       27       po_husky_       
+52  vlk  Malamut                     1395       27       po_husky_       
+53  vlk  "Pes, zluty"                1398       27       po_dog_         
+54  vlk  sakal                       3179       103      po_wolf_        
+55  vlk  Terier                      1397       27       po_terrier_     
+56  vlk  Vlk                         181        103      po_wolf_        
+57  vlk  "Vlk, zimni"                184        105      po_wolfwint_    
+58  vlk  "Vorech (NWN pes)"          176        27       po_dog_         
+59  vrk  "Barghest 1"                1103       106      po_barghest_    
+60  vrk  "Barghest 2"                1878       106      po_barghest_    
+61  vrk  "Barghest 3"                1262       106      po_barghest_    
+62  vrk  "Barghest, lity"            1883       106      po_barghest_    
+63  vrk  "Bazinny pes"               177        106      po_fenhound_    
+64  vrk  "Dvouhlavy pes, svetly"     3011       104      po_wolf_        
+65  vrk  "Dvouhlavy pes, tmavy"      3012       104      po_wolf_        
+66  vrk  "Pekelny pes"               179        52       po_hellhound_   
+67  vrk  "Stinovy mastif"            180        104      po_shmastif_    
+68  vrk  "Vlk, lity"                 175        104      po_direwolf_    
+69  vrk  Vrrk                        185        106      po_worg_        
+70  trol Lidoop                      3861       64       po_gorila_      
+71  trol "Trol 1"                    167        92       po_troll_       
+72  trol "Trol 2"                    1058       92       po_troll_       
+73  trol "Trol, lesni"               2503       92       po_troll_       
+74  trol "Trol, tetovany"            2502       92       po_troll_       
+75  trol "Trol, tmavy, zakrsly"      2504       92       po_troll_       
+76  trol "Yeti, bily"                1779       64       po_yeti2_       
+77  trol "Yeti, hnedy"               3500       64       po_dgyeti_      
+78  hak  "Hakovy das"                102        53       po_horror_      
+79  hak  Klepetnatec                 168        95       po_umberhulk_   
+80  hak  Krenshar                    96         17       po_krenshar_    
+81  hak  "Podtemnansky panter 1"     3367       17       po_displacer1_  
+82  hak  "Podtemnansky panter 2"     3368       17       po_displacer_   
+83  hak  Sovomedved                  1045       8        po_owlbear_     
+84  hak  "Sedy trhac"                205        51       po_greyrend_    
+85  pav  "Kobra, cerna"              178        260      po_cobra_       
+86  pav  "Kobra, zelena"             183        260      po_cobra_       
+87  pav  "Kobra, zlata"              194        260      po_cobra_       
+88  pav  "Pavouk, fazovy"            160        87       po_spidphase_   
+89  pav  "Pavouk, lity"              158        86       po_spiddire_    
+90  pav  "Pavouk, mecovy"            161        88       po_spidswrd_    
+91  pav  "Pavouk, obri, rudy"        1168       85       po_spiderbldbk_ 
+92  pav  "Pavouk, obri, zeleny"      159        85       po_spidgiant_   
+93  pav  "Zmije, lesni"              1226       851      po_vip_de_      
+94  pav  "Zmije, poustni"            1229       851      po_vip_fo_      
+95  pav  "Zmije, tropicka"           1235       851      po_vip_ju_      
+96  bro  "Ankheg, maly"              3302       9        po_ankheg_      
+97  bro  "Brouk, bombarder"          17         9        po_btlslicer_   
+98  bro  "Brouk, ohnivak"            18         9        po_btlfire_     
+99  bro  "Brouk, rohac"              19         9        po_btlstag_     
+100 bro  "Brouk, smradoch"           20         9        po_btlstink_    
+101 bro  "Krab, cerveny"             1430       9        po_crab_        
+102 bro  "Krab, modry"               1428       9        po_crabblue_    
+103 bro  "Mravenec, obri"            1169       9        po_g_ant_       
+104 bro  "Mravenec, obri, bojovy"    1243       9        po_g_ants_      
+105 bro  "Mravenec, obri, cerveny"   1170       9        po_g_antf_      
+106 bro  "Mravenec, obri, obrneny"   1244       9        po_g_antg_      
+107 jest Aligator                    3174       325      po_crocgator_   
+108 jest Bazilisek                   369        325      po_basilisk_    
+109 jest "Jester, ostnaty, oranzovy" 3850       260      po_t-rex_       
+110 jest "Jester, rohaty, cerny"     3849       260      po_drgblack_    
+111 jest "Jester, vzprimeny, zeleny" 3851       260      po_DrgGreen_    
+112 jest "Jesterka, obri"            3226       260      po_c_lizard4_   
+113 jest Krokodyl                    3171       325      po_crocgator_   
+114 jest "Krokodyl, gavial"          3175       325      po_crocgator_   
+115 jest "Wyverna, mlada"            458        332      po_wyvern_      
+116 jest "Zemni zralok, maly"        3317       446      po_bulette_     

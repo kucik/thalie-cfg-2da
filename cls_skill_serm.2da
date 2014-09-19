@@ -3,7 +3,7 @@
    SkillLabel    SkillIndex ClassSkill 
 0  Concentration 1          0          
 1  DisableTrap   2          0          
-2  Discipline    3          1          
+2  Discipline    3          0          
 3  Heal          4          1          
 4  Hide          5          0          
 5  Listen        6          1          

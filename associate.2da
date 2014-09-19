@@ -117,4 +117,73 @@
 113 jest Krokodyl                    3171       325      po_crocgator_   
 114 jest "Krokodyl, gavial"          3175       325      po_crocgator_   
 115 jest "Wyverna, mlada"            458        332      po_wyvern_      
-116 jest "Zemni zralok, maly"        3317       446      po_bulette_     
+116 jest "Zemni zralok, maly"        3317       446      po_bulette_    
+117 panter "Levhart, tmavy"          1303       19       po_leopard_
+118 panter "Panter"                  202        19       po_blkpanther_
+119 panter "Panter, demonicky"       306        19       po_cat_mpanth_
+120 panter "Puma"                    203        15       po_cat_crag_
+121 panter "Jaguar                   98         19       po_cat_jag_
+122 panter "Lev, samice"             1018       18       po_lion_
+123 panter "Skalni kocka             94         19       po_cat_
+124 panter "Tygr"                    1299       15       po_tiger_
+125 panter "Tygr, bily"              1300       15       po_wtiger_
+126 panter "Tygr, lity"              95         16       po_diretiger_
+127 panter "Krenshar"                96         17       po_krenshar_
+128 panter "Podtemnansky panter 1"   3367       17       po_displacer1_
+129 panter "Podtemnansky panter 2"   3368       17       po_displacer_
+130 golem  "Hlineny                  91         50       po_golclay_
+131 golem  "Hlineny 2"               3884       50       po_golclay_
+132 golem  "Kamenny"                 92         50       po_golstone_
+133 golem  "Kostlivy (ettin)"        24         47       po_golbone_
+134 golem  "Masovy(maly)             88         48       po_golflesh_
+135 golem  "Minogon"                 119        54       po_minogon_
+136 golem  "Minogon 2"               1257       54       po_minogon_
+137 golem  "Stitovy strazce          90         49       po_shguard_
+138 golem  "Stitovy strazce, cer."   1764	49       po_zshgrd05_
+139 golem  "Stitovy strazce, drev."  1757       49       po_zshgrd01_
+140 golem  "Stitovy strazce, tmavy"  1762       49       po_zshgrd11_
+141 golem  "Stitovy strazce, zlaty"  1760       49       po_tanarukk_
+142 golem  "Zelezny"                 89         49       po_goliron_
+143 golem  "Zelezny - maug"          1498       49       po_maug_
+144 golem  "Zelezny - maug, ostnaty" 1504       49       po_gmaug_
+145 golem  "Zelezny - maug, ost.zl." 1500       49       po_gmaug_
+146 golem  "Zelezny - maug, zdobeny" 1499	49       po_maug_
+147 robot  "Das, bojovy"             11	        54       po_bathorror_
+148 robot  "Das, s helmou"           100        54       po_helmhorror_
+149 robot  "Ozivly mucici nsstroj"   1216       850      po_spiker_
+150 robot  "Ozivla zubata truhla"    1424       850      po_plc_a08_365_
+151 robot  "Robopavouk"              1217       850      po_spider_
+152 robot  "Roborezacka, letajici"   1218       850      po_wasp_
+153 pekpes "Elemental, magma, maly"  1350       34       po_elemmag_
+154 pekpes "Elemental, magma, str."  1349       34       po_elemmag_
+155 pekpes "Elemental, ohnivy"       60         34       po_fire_
+156 pekpes "Elemental, ohnivy, hm."  3129       34       po_grue_fire_
+157 pekpes "Elemental, ohnivy, m."   1359       34       po_elemfir_
+158 pekpes "Elemental, ohnivy, str." 1358       34       po_elemfir_
+159 pekpes "Elemental, para, maly"   1374       34       po_elemste_
+160 pekpes "Elemental, para, str."   1373       34       po_elemste_
+161 pekpes "Elemental, popel, maly"  1386       34       po_elemash_
+162 pekpes "Elemental, popel, str."  1385       34       po_elemash_
+163 pekpes "Pekelny pes"             179        52       po_hellhound_
+164 meph   "Imp"                     105	63       po_imp_
+165 meph   "Mephit, ohnivy"          109        63       po_mepooze_
+166 meph   "Mephit, parni"           113        63       po_mepsteam_
+167 meph   "Netopyr, ohnivy"         3307       6        po_bat_
+168 meph   "Quasit"                  104        63       po_dmquasit_
+169 meph   "Zaba, ohniva"            3394       851      po_toadfr_
+170 vila   "Bludicka, fialova"       1996       102      po_willowisp_
+171 vila   "Bludicka, modra"         116        102      po_willowisp_
+172 vila   "Bludicka, oranzova"      1997       102      po_willowisp_
+173 vila   "Bludicka, ruzova"        1994       102      po_willowisp_
+174 vila   "Bludicka, zelena"        1998       102      po_willowisp_
+175 vila   "Bludicka, zluta"         1995       102      po_willowisp_
+176 vila   "Pixie, fialova"          1991       37       po_pixie_
+177 vila   "Pixie, modra"            1990       37       po_pixie_
+178 vila   "Pixie, oranzova"         1992       37       po_pixie_
+179 vila   "Pixie, ruzova"           1993       37       po_pixie_
+180 vila   "Pixie, zelena"           55         37       po_pixie_
+181 dracek "Dracek, bily"            380        332      po_wyrmlwht_
+182 dracek "Dracek, bronzovy"        383        332      po_wyrmlbrz_
+183 dracek "Dracek, modry"           377        332      po_wyrmlblu_
+184 dracek "Dracek, stribrny"        384        332      po_wyrmlsil_
+185 dracek "Dracek, vili"            374        330      po_drgfaerie_

@@ -1,0 +1,76 @@
+2DA V2.0
+
+   BASERESREF    NAME                   LEVEL    ALIGNMENT  CLS_CLER CLS_WIZ CLS_BARD CLS_DRUID
+0  su_el_oh_     "Ohnivy Elemental"     1        25         0        1       1        1
+1  su_el_oh_     "Ohnivy Elemental"     2        25         0        1       1        1
+2  su_el_oh_     "Ohnivy Elemental"     3        25         0        1       1        1
+3  su_el_oh_     "Ohnivy Elemental"     4        25         0        1       1        1
+4  su_el_oh_     "Ohnivy Elemental"     5        25         0        1       1        1
+5  su_el_oh_     "Ohnivy Elemental"     6        25         0        1       1        1
+6  su_el_oh_     "Ohnivy Elemental"     7        25         0        1       1        1
+7  su_el_oh_     "Ohnivy Elemental"     8        25         0        1       1        1
+8  su_el_oh_     "Ohnivy Elemental"     9        25         0        1       1        1
+9  su_el_vo_     "Vodni Elemental"      1        25         0        1       1        1
+10 su_el_vo_     "Vodni Elemental"      2        25         0        1       1        1
+11 su_el_vo_     "Vodni Elemental"      3        25         0        1       1        1
+12 su_el_vo_     "Vodni Elemental"      4        25         0        1       1        1
+13 su_el_vo_     "Vodni Elemental"      5        25         0        1       1        1
+14 su_el_vo_     "Vodni Elemental"      6        25         0        1       1        1
+15 su_el_vo_     "Vodni Elemental"      7        25         0        1       1        1
+16 su_el_vo_     "Vodni Elemental"      8        25         0        1       1        1
+17 su_el_vo_     "Vodni Elemental"      9        25         0        1       1        1
+18 su_el_vz_     "Vzdusny Elemental"    1        25         0        1       1        1
+19 su_el_vz_     "Vzdusny Elemental"    2        25         0        1       1        1
+20 su_el_vz_     "Vzdusny Elemental"    3        25         0        1       1        1
+21 su_el_vz_     "Vzdusny Elemental"    4        25         0        1       1        1
+22 su_el_vz_     "Vzdusny Elemental"    5        25         0        1       1        1
+23 su_el_vz_     "Vzdusny Elemental"    6        25         0        1       1        1
+24 su_el_vz_     "Vzdusny Elemental"    7        25         0        1       1        1
+25 su_el_vz_     "Vzdusny Elemental"    8        25         0        1       1        1
+26 su_el_vz_     "Vzdusny Elemental"    9        25         0        1       1        1
+27 su_el_ze_     "Zemni Elemental"      1        25         0        1       1        1
+28 su_el_ze_     "Zemni Elemental"      2        25         0        1       1        1
+29 su_el_ze_     "Zemni Elemental"      3        25         0        1       1        1
+30 su_el_ze_     "Zemni Elemental"      4        25         0        1       1        1
+31 su_el_ze_     "Zemni Elemental"      5        25         0        1       1        1
+32 su_el_ze_     "Zemni Elemental"      6        25         0        1       1        1
+33 su_el_ze_     "Zemni Elemental"      7        25         0        1       1        1
+34 su_el_ze_     "Zemni Elemental"      8        25         0        1       1        1
+35 su_el_ze_     "Zemni Elemental"      9        25         0        1       1        1
+36 su_nemrtvi_   "Kostlivec"            1        16         1        1       0        1
+37 su_nemrtvi_   "Zombie"               2        16         1        1       0        1
+38 su_nemrtvi_   "Ghoul"                3        16         1        1       0        1
+39 su_nemrtvi_   "Kostlivec Mag"        4        16         1        1       0        1
+40 su_nemrtvi_   "Kostlivec bojovnik"   5        16         1        1       0        1
+41 su_nemrtvi_   "Spektra"              6        16         1        1       0        1
+42 su_nemrtvi_   "Rytir Zkazy"          7        16         1        1       0        1
+43 su_nemrtvi_   "Upir"                 8        16         1        1       0        1
+44 su_nemrtvi_   "Lich"                 9        16         1        1       0        1
+45 su_pl_do_     "Bila zare"            1         8         1        1       0        0
+46 su_pl_do_     "Elektricky mephit"    2         8         1        1       0        0
+47 su_pl_do_     "Nebesky ohar"         3         8         1        1       0        0
+48 su_pl_do_     "Nebesky zarikavac"    4         8         1        1       0        0
+49 su_pl_do_     "Avatar svetla"        5         8         1        1       0        0
+50 su_pl_do_     "Psi archon"           6         8         1        1       0        0
+51 su_pl_do_     "Mstitel"              7         8         1        1       0        0
+52 su_pl_do_     "Stary psi archon"     8         8         1        1       0        0
+53 su_pl_do_     "Stary mstitel"        9         8         1        1       0        0
+54 su_pl_ne_     "Zelena zare"          1         1         1        1       0        0
+55 su_pl_ne_     "Kysely mephit"        2         1         1        1       0        0
+56 su_pl_ne_     "Stinovy mastif"       3         1         1        1       0        0
+57 su_pl_ne_     "Zeleny slaad"         4         1         1        1       0        0
+58 su_pl_ne_     "Avatar svetla"        5         1         1        1       0        0
+59 su_pl_ne_     "Drakonian"            6         1         1        1       0        0
+60 su_pl_ne_     "Modry slaad"          7         1         1        1       0        0
+61 su_pl_ne_     "Stary drakonian"      8         1         1        1       0        0
+62 su_pl_ne_     "Cerny slaad"          9         1         1        1       0        0
+63 su_pl_zl_     "Ruda zare"            1        16         1        1       0        0
+64 su_pl_zl_     "Ohnivy mephit"        1        16         1        1       0        0
+65 su_pl_zl_     "Pekelny pes"          1        16         1        1       0        0
+66 su_pl_zl_     "Pekelny zarikavac"    1        16         1        1       0        0
+67 su_pl_zl_     "Avatar svetla"        1        16         1        1       0        0
+68 su_pl_zl_     "Demoni valecnik"      1        16         1        1       0        0
+69 su_pl_zl_     "Vrock"                1        16         1        1       0        0
+70 su_pl_zl_     "Stary demoni val."    1        16         1        1       0        0
+71 su_pl_zl_     "Osyluth"              1        16         1        1       0        0
+

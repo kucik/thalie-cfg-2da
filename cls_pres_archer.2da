@@ -6,7 +6,7 @@
 2 WeapFocLongBow   FEATOR  101            ****      
 3 WeapFocShortBow  FEATOR  102            ****      
 4 Elf              RACE    1              ****      
-5 Carozpyt         SKILL   16             5         
+5 Carozpyt         SKILL   16             6         
 6 Znalosti         SKILL   7              10        
 7 Base_Attack      BAB     6              ****      
 8 ScriptVar        VAR     X1_AllowArcher 0         

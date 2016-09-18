@@ -143,9 +143,9 @@
 139 Shield                                         32        3    1              0      
 140 WeapProfMar                                    45        3    1              0      
 141 WeapProfExotic                                 44        1    -1             0      
-142 DefArrow                                       8         0    -1             0      
-143 TwoWeap                                        41        0    -1             0      
-144 Ambidex                                        1         0    -1             0      
+142 ****                                           ****      **** ****          ****     
+143 ****                                           ****      **** ****          ****     
+144 ****                                           ****      **** ****          ****      
 145 Expertise                                      389       1    -1             0      
 146 ImpExpertise                                   390       1    -1             0      
 147 GreatCleave                                    391       1    -1             0      
@@ -489,9 +489,9 @@
 485 ImpCritThMaul                                  1147      1    -1             0
 486 ImpCritThMercLSw                               1148      1    -1             0
 487 ImpCritThMercGSw                               1149      1    -1             0
-488 ImpCritThScimitarD                             1140      1    -1             0
-489 ImpCritThGoad                                  1141      1    -1             0
-490 ImpCritThWindFireWh                            1142      1    -1             0
+488 ImpCritThScimitarD                             1150      1    -1             0
+489 ImpCritThGoad                                  1151      1    -1             0
+490 ImpCritThWindFireWh                            1152      1    -1             0
 491 EpicOverhelmingCriticalThBeerMug               1192      1    -1             0
 492 EpicOverhelmingCriticalThSSpear                1193      1    -1             0
 493 EpicOverhelmingCriticalThTrident_1h            1194      1    -1             0
@@ -549,3 +549,6 @@
 545 EpicWeaponFocusThGoad                          1246      1    -1             0
 546 EpicWeaponFocusThWindFireWh                    1247      1    -1             0
 547 EpicWeaponFocusThMaugDS                        1248      1    -1             0
+548 FEAT_EPICGENERAL_RYCHLE_HOJENI_1               1493      1    -1             0
+549 FEAT_EPICGENERAL_RYCHLE_HOJENI_2               1494      1    -1             0
+550 FEAT_EPICGENERAL_RYCHLE_HOJENI_3               1495      1    -1             0

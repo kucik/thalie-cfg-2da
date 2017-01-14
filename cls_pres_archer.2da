@@ -5,8 +5,7 @@
 1 Vlada_magu       FEAT    381            ****      
 2 WeapFocLongBow   FEATOR  101            ****      
 3 WeapFocShortBow  FEATOR  102            ****      
-4 Elf              RACE    1              ****      
-5 Carozpyt         SKILL   16             6         
-6 Znalosti         SKILL   7              10        
-7 Base_Attack      BAB     6              ****      
-8 ScriptVar        VAR     X1_AllowArcher 0         
+4 Carozpyt         SKILL   16             6         
+5 Znalosti         SKILL   7              10        
+6 Base_Attack      BAB     6              ****      
+7 ScriptVar        VAR     X1_AllowArcher 1         

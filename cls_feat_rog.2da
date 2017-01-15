@@ -127,8 +127,8 @@
 123 FEAT_ROGUE_SVETAK4                   1348      2    -1             0      
 124 FEAT_ROGUE_SVETAK5                   1349      2    -1             0      
 125 FEAT_ROGUE_KRVACIVE_RANY             1350      2    -1             1      
-126 FEAT_ROGUE_OSLEPENI                  1351      2    -1             0      
-127 FEAT_ROGUE_UTISENI                   1352      2    -1             0      
+126 FEAT_ROGUE_OSLEPENI                  1351      2    -1             1      
+127 FEAT_ROGUE_UTISENI                   1352      2    -1             1      
 128 FEAT_EPIC_GREAT_DEXTERITY_1          784       1    -1             0      
 129 FEAT_EPIC_GREAT_DEXTERITY_2          785       1    -1             0      
 130 FEAT_EPIC_GREAT_DEXTERITY_3          786       1    -1             0      

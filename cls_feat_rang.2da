@@ -130,7 +130,7 @@
 126 PLAYER_TOOL_09                                1114      1    99             1      
 127 PLAYER_TOOL_10                                1115      1    99             1      
 128 Evasion                                       206       3    9              0      
-129 ImprovedEvasion                               212       3    29             0      
+129 ****                                          ****      **** ****           ****   
 130 GreatFort                                     14        3    2              0      
 131 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_1  1504      1    -1             0      
 132 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_2  1505      1    -1             0      

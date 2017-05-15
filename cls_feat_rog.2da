@@ -139,3 +139,7 @@
 135 FEAT_EPIC_GREAT_DEXTERITY_8          791       1    -1             0      
 136 FEAT_EPIC_GREAT_DEXTERITY_9          792       1    -1             0      
 137 FEAT_EPIC_GREAT_DEXTERITY_10         793       1    -1             0      
+138 FEAT_GENERAL_JISTY_POSTOJ            1668      0    -1             1      
+139 FEAT_GENERAL_NEOCHVEJNOST            1669      0    -1             1      
+140 FEAT_GENERAL_BITEVNI_REV             1670      0    -1             1      
+141 FEAT_GENERAL_STINOVY_KROK            1671      1    -1             1      

@@ -294,3 +294,7 @@
 290 FEAT_BOZSKA_PRIZEN1                            1644      1    -1             0      
 291 FEAT_BOZSKA_PRIZEN2                            1645      1    -1             0      
 292 FEAT_BOZSKA_PRIZEN3                            1646      1    -1             0      
+293 FEAT_GENERAL_JISTY_POSTOJ                      1668      1    -1             1      
+294 FEAT_GENERAL_NEOCHVEJNOST                      1669      1    -1             1      
+295 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
+296 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      

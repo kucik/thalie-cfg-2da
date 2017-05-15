@@ -159,3 +159,7 @@
 155 FEAT_EPIC_GREAT_CHARISMA_8           771       1    -1             0      
 156 FEAT_EPIC_GREAT_CHARISMA_9           772       1    -1             0      
 157 FEAT_EPIC_GREAT_CHARISMA_10          773       1    -1             ****   
+158 FEAT_GENERAL_JISTY_POSTOJ            1668      0    -1             1      
+159 FEAT_GENERAL_NEOCHVEJNOST            1669      0    -1             1      
+160 FEAT_GENERAL_BITEVNI_REV             1670      0    -1             1      
+161 FEAT_GENERAL_STINOVY_KROK            1671      0    -1             1      

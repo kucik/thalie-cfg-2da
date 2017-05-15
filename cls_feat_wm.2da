@@ -287,3 +287,7 @@
 283 WeapOfChoiceThMaugDS                           1191      2    1              0      
 284 FEAT_EPIC_SUPERIOR_WEAPON_FOCUS                1071      3    13             0      
 285 FEAT_SUPERIOR_WEAPON_FOCUS                     884       3    5              0      
+286 FEAT_GENERAL_JISTY_POSTOJ                      1668      0    -1             1      
+287 FEAT_GENERAL_NEOCHVEJNOST                      1669      0    -1             1      
+288 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
+289 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      

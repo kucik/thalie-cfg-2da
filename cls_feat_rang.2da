@@ -115,7 +115,7 @@
 111 FEAT_EPIC_TOUGHNESS_9                         762       1    -1             0      
 112 FEAT_EPIC_TOUGHNESS_10                        763       1    -1             0      
 113 FEAT_EPIC_WEAPON_FOCUS_DWAXE                  956       1    -1             0      
-114 FEAT_EPIC_RANGER                              973       3    20             0      
+114 FEAT_EPIC_RANGER                              973       3    21             0      
 115 FEAT_EPIC_WEAPON_FOCUS_WHIP                   997       1    -1             0      
 116 FEAT_EPIC_PERFECT_HEALTH                      747       1    -1             0      
 117 FEAT_HORSE_MENU                               1089      3    1              1      
@@ -129,9 +129,9 @@
 125 PLAYER_TOOL_08                                1113      1    99             1      
 126 PLAYER_TOOL_09                                1114      1    99             1      
 127 PLAYER_TOOL_10                                1115      1    99             1      
-128 Evasion                                       206       3    9              0      
+128 Evasion                                       206       3    10             0      
 129 ****                                          ****      **** ****           ****   
-130 GreatFort                                     14        3    2              0      
+130 GreatFort                                     14        3    3              0      
 131 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_1  1504      1    -1             0      
 132 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_2  1505      1    -1             0      
 133 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_3  1506      1    -1             0      
@@ -142,8 +142,8 @@
 138 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_8  1511      1    -1             0      
 139 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_9  1512      1    -1             0      
 140 FEAT_EPICGENERAL_ZLEPSENY_UHLAVNI_NEPRITEL_10 1513      1    -1             0      
-141 keensense                                     240       3    1              0      
-142 HIDE_IN_PLAIN_SIGHT                           433       3    19             0      
+141 keensense                                     240       3    2              0      
+142 HIDE_IN_PLAIN_SIGHT                           433       3    20             0      
 143 FEAT_EPIC_GREAT_STRENGTH_1                    814       1    -1             0      
 144 FEAT_EPIC_GREAT_STRENGTH_2                    815       1    -1             0      
 145 FEAT_EPIC_GREAT_STRENGTH_3                    816       1    -1             0      

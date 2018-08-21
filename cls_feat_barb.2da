@@ -2,12 +2,12 @@
 
     FeatLabel                                      FeatIndex List GrantedOnLevel OnMenu 
 0   BarbEndurance                                  194       3    1              0      
-1   UncannyDodge1                                  195       3    1              0      
-2   UncannyDodge2                                  251       3    4              0      
-3   UncannyDodge3                                  252       3    9              0      
-4   UncannyDodge4                                  253       3    12             0      
-5   UncannyDodge5                                  254       3    15             0      
-6   UncannyDodge6                                  255       3    18             0      
+1   UncannyDodge1                                  195       3    2              0      
+2   UncannyDodge2                                  251       3    5              0      
+3   UncannyDodge3                                  252       3    10             0      
+4   UncannyDodge4                                  253       3    13             0      
+5   UncannyDodge5                                  254       3    16             0      
+6   UncannyDodge6                                  255       3    19             0      
 7   WeapProfMar                                    45        3    1              0      
 8   WeapProfSim                                    46        3    1              0      
 9   ArmProfLgt                                     3         3    1              0      
@@ -148,7 +148,7 @@
 144 FEAT_EPIC_OVERWHELMING_CRITICAL_DWAXE          958       1    -1             0      
 145 FEAT_EPIC_OVERWHELMING_CRITICAL_TRIDENT        1078      1    -1             0      
 146 FEAT_EPIC_SUPERIOR_INITIATIVE                  753       1    -1             0      
-147 FEAT_EPIC_BARABRIAN                            967       3    20             0      
+147 FEAT_EPIC_BARABRIAN                            967       3    21             0      
 148 FEAT_EPIC_PROWESS                              584       1    -1             0      
 149 FEAT_EPIC_TERRIFYING_RAGE                      989       1    -1             0      
 150 FEAT_EPIC_WEAPON_FOCUS_WHIP                    997       1    -1             0      
@@ -167,14 +167,14 @@
 163 PLAYER_TOOL_09                                 1114      1    99             1      
 164 PLAYER_TOOL_10                                 1115      1    99             1      
 165 ****                                           ****      **** ****           ****   
-166 FEAT_VETSI_ZURIVOST                            1269      3    9              1      
-167 FEAT_NEOBLOMNA_VULE                            1270      3    13             0      
-168 FEAT_MOCNA_ZURIVOST                            1271      3    19             1      
-169 FEAT_EPICKA_ZURIVOST                           1272      3    24             1      
-170 FEAT_LEGENDARNI_ZURIVOST1                      1273      3    29             1      
-171 FEAT_LEGENDARNI_ZURIVOST2                      1274      3    34             1      
-172 FEAT_LEGENDARNI_ZURIVOST3                      1275      3    39             1      
-173 FEAT_SNIZENI_ZRANENI_BARBAR                    1276      3    6              0      
+166 FEAT_VETSI_ZURIVOST                            1269      3    10             1      
+167 FEAT_NEOBLOMNA_VULE                            1270      3    14             0      
+168 FEAT_MOCNA_ZURIVOST                            1271      3    20             1      
+169 FEAT_EPICKA_ZURIVOST                           1272      3    25             1      
+170 FEAT_LEGENDARNI_ZURIVOST1                      1273      3    30             1      
+171 FEAT_LEGENDARNI_ZURIVOST2                      1274      3    35             1      
+172 FEAT_LEGENDARNI_ZURIVOST3                      1275      3    40             1      
+173 FEAT_SNIZENI_ZRANENI_BARBAR                    1276      3    7              0      
 174 FEAT_EPICKE_SNIZENI_ZRANENI_BARBAR_1           1277      1    -1             0      
 175 FEAT_EPICKE_SNIZENI_ZRANENI_BARBAR_2           1278      1    -1             0      
 176 FEAT_EPICKE_SNIZENI_ZRANENI_BARBAR_3           1279      1    -1             0      

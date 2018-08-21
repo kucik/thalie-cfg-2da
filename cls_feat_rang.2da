@@ -179,3 +179,7 @@
 175 FEAT_GENERAL_NEOCHVEJNOST                     1669      0    -1             1      
 176 FEAT_GENERAL_BITEVNI_REV                      1670      0    -1             1      
 177 FEAT_GENERAL_STINOVY_KROK                     1671      1    -1             1      
+178 FEAT_GENERAL_SEBRAT                           1515      3    2              1      
+179 FEAT_GENERAL_POUZIT                           1516      3    2              1      
+180 FEAT_GENERAL_TARGET                           1517      3    2              1      
+181 FEAT_GENERAL_POZOROVAT                        1518      3    2              1      

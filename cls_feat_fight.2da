@@ -556,3 +556,7 @@
 552 FEAT_GENERAL_NEOCHVEJNOST                      1669      1    -1             1      
 553 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
 554 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      
+555 FEAT_GENERAL_SEBRAT                            1515      3    2              1      
+556 FEAT_GENERAL_POUZIT                            1516      3    2              1      
+557 FEAT_GENERAL_TARGET                            1517      3    2              1      
+558 FEAT_GENERAL_POZOROVAT                         1518      3    2              1      

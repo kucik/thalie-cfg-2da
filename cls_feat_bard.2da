@@ -163,3 +163,7 @@
 159 FEAT_GENERAL_NEOCHVEJNOST            1669      0    -1             1      
 160 FEAT_GENERAL_BITEVNI_REV             1670      0    -1             1      
 161 FEAT_GENERAL_STINOVY_KROK            1671      0    -1             1      
+162 FEAT_GENERAL_SEBRAT                  1515      3    2              1      
+163 FEAT_GENERAL_POUZIT                  1516      3    2              1      
+164 FEAT_GENERAL_TARGET                  1517      3    2              1      
+165 FEAT_GENERAL_POZOROVAT               1518      3    2              1      

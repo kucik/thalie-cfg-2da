@@ -147,3 +147,5 @@
 143 FEAT_GENERAL_POUZIT                  1516      3    2              1      
 144 FEAT_GENERAL_TARGET                  1517      3    2              1      
 145 FEAT_GENERAL_POZOROVAT               1518      3    2              1      
+146 FEAT_HIDE_TALENT                     1673      3    12             0      
+147 HIDE_IN_PLAIN_SIGHT                  433       1    -1             0      

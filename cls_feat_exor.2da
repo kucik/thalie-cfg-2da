@@ -233,7 +233,7 @@
 229 ArmProfMed                                     4         3    1              0      
 230 Shield                                         32        3    1              0      
 231 ZACHAZENI_S_PAVEZOU                            1319      3    4              0      
-232 ArmProfHvy                                     2         3    4              0      
+232 ArmProfHvy                                     2         3    1              0      
 233 EpicOverhelmingCriticalThBeerMug               1192      1    -1             0      
 234 EpicOverhelmingCriticalThSSpear                1193      1    -1             0      
 235 EpicOverhelmingCriticalThTrident_1h            1194      1    -1             0      
@@ -308,3 +308,4 @@
 304 FEAT_GENERAL_NEOCHVEJNOST                      1669      0    -1             1      
 305 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
 306 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      
+307 FEAT_ARMOR_PROFICIENCY_PLATE                   1672      3    4              0      

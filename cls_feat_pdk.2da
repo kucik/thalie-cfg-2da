@@ -10,7 +10,7 @@
 6   ArmProfLgt                                     3         3    1              0      
 7   ArmProfMed                                     4         3    1              0      
 8   ZACHAZENI_S_PAVEZOU                            1319      3    4              0      
-9   ArmProfHvy                                     2         3    4              0      
+9   ArmProfHvy                                     2         3    1              0      
 10  WeapProfSim                                    46        3    1              0      
 11  WeapProfEx                                     44        0    -1             0      
 12  WeapProfMar                                    45        3    1              0      
@@ -309,3 +309,4 @@
 305 FEAT_GENERAL_NEOCHVEJNOST                      1669      1    -1             1      
 306 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
 307 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      
+308 FEAT_ARMOR_PROFICIENCY_PLATE                   1672      3    4              0      

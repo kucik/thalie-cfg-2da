@@ -413,7 +413,7 @@
 409 FEAT_FIGHTER_DOKOLANY_KRYT3                    1316      1    -1             0      
 410 FEAT_FIGHTER_DOKOLANY_KRYT4                    1317      1    -1             0      
 411 FEAT_FIGHTER_DOKOLANY_KRYT5                    1318      1    -1             0      
-412 ZACHAZENI_S_PAVEZOU                            1319      3    5              0      
+412 ZACHAZENI_S_PAVEZOU                            1319      3    4              0      
 413 ResistEnergyCold                               427       1    -1             0      
 414 ResistEnergyAcid                               428       1    -1             0      
 415 ResistEnergyFire                               429       1    -1             0      
@@ -560,3 +560,4 @@
 556 FEAT_GENERAL_POUZIT                            1516      3    2              1      
 557 FEAT_GENERAL_TARGET                            1517      3    2              1      
 558 FEAT_GENERAL_POZOROVAT                         1518      3    2              1      
+559 FEAT_ARMOR_PROFICIENCY_PLATE                   1672      3    4              0      

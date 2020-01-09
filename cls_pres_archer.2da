@@ -2,10 +2,9 @@
 
   LABEL            ReqType ReqParam1      ReqParam2 
 0 Point_Blank_Shot FEAT    27             ****      
-1 Vlada_magu       FEAT    381            ****      
-2 WeapFocLongBow   FEATOR  101            ****      
-3 WeapFocShortBow  FEATOR  102            ****      
-4 Carozpyt         SKILL   16             6         
-5 Znalosti         SKILL   7              10        
-6 Base_Attack      BAB     6              ****      
-7 ScriptVar        VAR     X1_AllowArcher 1         
+1 WeapFocLongBow   FEATOR  101            ****      
+2 WeapFocShortBow  FEATOR  102            ****      
+3 Carozpyt         SKILL   16             6         
+4 Znalosti         SKILL   7              10        
+5 Base_Attack      BAB     6              ****      
+6 ScriptVar        VAR     X1_AllowArcher 1         

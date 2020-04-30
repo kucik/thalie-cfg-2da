@@ -9,7 +9,7 @@
 5   FEAT_CERNOKNEZNIK_DAMAGE_MAGIC                   1432      3    1              1      
 6   FEAT_CERNOKNEZNIK_INVOKACE1                      1433      3    1              0      
 7   FEAT_CERNOKNEZNIK_INVOKACE1_TAJEMNE_KOPI         1434      2    -1             1      
-8   FEAT_CERNOKNEZNIK_INVOKACE1_OHAVNA_RANA          1435      2    -1             1      
+8   FEAT_CERNOKNEZNIK_INVOKACE1_OHAVNA_RANA          *****     **** ****           ****      
 9   FEAT_CERNOKNEZNIK_INVOKACE1_SZIRAVA_ESENCE       1436      2    -1             1      
 10  FEAT_CERNOKNEZNIK_INVOKACE1_STRASLIVA_ESENCE     1437      2    -1             1      
 11  FEAT_CERNOKNEZNIK_INVOKACE1_VABIVY_VLIV          1438      2    -1             1      

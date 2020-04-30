@@ -304,8 +304,8 @@
 300 FEAT_EXORCISTA_VYLEPSENE_NARUSENI1             1665      1    -1             0      
 301 FEAT_EXORCISTA_VYLEPSENE_NARUSENI2             1666      1    -1             0      
 302 FEAT_EXORCISTA_VYLEPSENE_NARUSENI3             1667      1    -1             0      
-303 FEAT_GENERAL_JISTY_POSTOJ                      1668      0    -1             1      
-304 FEAT_GENERAL_NEOCHVEJNOST                      1669      0    -1             1      
-305 FEAT_GENERAL_BITEVNI_REV                       1670      0    -1             1      
+303 ****                                           ****      **** ****           ****  
+304 ****                                           ****      **** ****           ****    
+305 ****                                           ****      **** ****           ****  
 306 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      
 307 FEAT_ARMOR_PROFICIENCY_PLATE                   1672      3    4              0      

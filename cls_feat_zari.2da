@@ -59,9 +59,9 @@
 55  FEAT_EPIC_SPELL_ZBORCENI                         1545      2    -1             1      
 56  FEAT_EPIC_SPELL_SMRSTOVACI_PAPRSEK               1546      2    -1             1      
 57  FEAT_EPIC_SPELL_MAGOVY_DVERE                     1548      2    -1             1      
-58  FEAT_GENERAL_JISTY_POSTOJ                        1668      0    -1             1      
-59  FEAT_GENERAL_NEOCHVEJNOST                        1669      0    -1             1      
-60  FEAT_GENERAL_BITEVNI_REV                         1670      0    -1             1      
+58  ****                                             ****      **** ****           ****      
+59  ****                                             ****      **** ****           ****     
+60  ****                                             ****      **** ****           ****  
 61  FEAT_GENERAL_STINOVY_KROK                        1671      0    -1             1      
 62  FEAT_GENERAL_SEBRAT                              1515      3    2              1      
 63  FEAT_GENERAL_POUZIT                              1516      3    2              1      

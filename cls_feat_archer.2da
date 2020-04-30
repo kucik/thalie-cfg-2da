@@ -70,9 +70,9 @@
 66  FEAT_EPICGENERAL_VYLEP�ENY_SIP_SMRTI_3   1501      1    -1             0      
 67  FEAT_EPICGENERAL_VYLEP�ENY_SIP_SMRTI_4   1502      1    -1             0      
 68  FEAT_EPICGENERAL_VYLEP�ENY_SIP_SMRTI_5   1503      1    -1             0      
-69  FEAT_GENERAL_JISTY_POSTOJ                1668      0    -1             1      
-70  FEAT_GENERAL_NEOCHVEJNOST                1669      0    -1             1      
-71  FEAT_GENERAL_BITEVNI_REV                 1670      0    -1             1      
+69  ****                                     ****      **** ****           ****    
+70  ****                                     ****      **** ****           ****  
+71  ****                                     ****      **** ****           ****      
 72  FEAT_GENERAL_STINOVY_KROK                1671      0    -1             1      
 73  FEAT_HIDE_TALENT                         1673      3    12             0      
 74  HIDE_IN_PLAIN_SIGHT                      433       1    -1             0      

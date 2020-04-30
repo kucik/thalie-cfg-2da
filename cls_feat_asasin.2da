@@ -95,9 +95,9 @@
 91  FEAT_EPIC_GREAT_INTELLIGENCE_8     801       1    -1             0      
 92  FEAT_EPIC_GREAT_INTELLIGENCE_9     802       1    -1             0      
 93  FEAT_EPIC_GREAT_INTELLIGENCE_10    803       1    -1             0      
-94  FEAT_GENERAL_JISTY_POSTOJ          1668      0    -1             1      
-95  FEAT_GENERAL_NEOCHVEJNOST          1669      0    -1             1      
-96  FEAT_GENERAL_BITEVNI_REV           1670      0    -1             1      
+94  ****                               ****      **** ****           ****      
+95  ****                               ****      **** ****           ****
+96  ****                               ****      **** ****           ****
 97  FEAT_GENERAL_STINOVY_KROK          1671      1    -1             1      
 98  FEAT_HIDE_TALENT                   1673      3    12             0      
 99  HIDE_IN_PLAIN_SIGHT                433       1    -1             0      

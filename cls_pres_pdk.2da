@@ -1,7 +1,10 @@
 2DA V2.0
 
-  LABEL       ReqType ReqParam1    ReqParam2 
-0 Base_Attack BAB     4            ****      
-1 Persuade    SKILL   12           5         
-2 IronWill    FEAT    22           ****      
-3 ScriptVar   VAR     DLA_AllowPDK 0         
+  LABEL         ReqType ReqParam1    ReqParam2 
+0 Base_Attack   BAB     9            ****      
+1 Persuade      SKILL   12           15        
+1 Discipline    SKILL   3            15        
+1 Ride          SKILL   27           15        
+2 IronWill      FEAT    22           ****      
+2 MountedCombat FEAT    1087         ****      
+3 ScriptVar     VAR     DLA_AllowPDK 0         

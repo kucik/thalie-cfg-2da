@@ -109,3 +109,4 @@
 105 FEAT_GENERAL_POUZIT                 1516      3    2              1      
 106 FEAT_GENERAL_TARGET                 1517      3    2              1      
 107 FEAT_GENERAL_POZOROVAT              1518      3    2              1      
+108 FEAT_BREW_POTION                    944       0    3              0      

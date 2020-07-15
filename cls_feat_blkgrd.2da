@@ -194,10 +194,7 @@
 190 FEAT_BLACKGUARD_SNEAK_ATTACK_13D6              1016      3    40             0      
 191 FEAT_EPIC_BLINDING_SPEED                       491       0    -1             1      
 192 FEAT_BG_HARM                                   1288      3    17             1      
-193 FEAT_GENERAL_BOZSKA_ODPLATA                    1482      0    -1             1      
 194 FEAT_GENERAL_DUCHOVNI_CILOST                   1483      0    -1             1      
-195 FEAT_GENERAL_DUCHOVNI_CISTOTA                  1484      0    -1             1      
-196 FEAT_GENERAL_DUCHOVNI_ODOLNOST                 1485      0    -1             1      
 197 FEAT_EPICGENERAL_BEZBOZNY_UDER                 1498      0    -1             0      
 198 ZACHAZENI_S_PAVEZOU                            1319      3    4              0      
 199 FEAT_EPIC_PLANAR_TURNING                       854       3    5              0      
@@ -291,11 +288,5 @@
 287 EpicWeaponFocusThGoad                          1246      1    -1             0      
 288 EpicWeaponFocusThWindFireWh                    1247      1    -1             0      
 289 EpicWeaponFocusThMaugDS                        1248      1    -1             0      
-290 FEAT_BOZSKA_PRIZEN1                            1644      1    -1             0      
-291 FEAT_BOZSKA_PRIZEN2                            1645      1    -1             0      
-292 FEAT_BOZSKA_PRIZEN3                            1646      1    -1             0      
-293 ****                                           ****      **** ****           ****      
-294 ****                                           ****      **** ****           ****     
-295 ****                                           ****      **** ****           ****     
 296 FEAT_GENERAL_STINOVY_KROK                      1671      0    -1             1      
 297 FEAT_ARMOR_PROFICIENCY_PLATE                   1672      3    4              0      

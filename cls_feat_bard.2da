@@ -167,6 +167,4 @@
 163 FEAT_GENERAL_POUZIT                  1516      3    2              1      
 164 FEAT_GENERAL_TARGET                  1517      3    2              1      
 165 FEAT_GENERAL_POZOROVAT               1518      3    2              1      
-166 FEAT_HIDE_TALENT                     1673      3    12             0      
-167 HIDE_IN_PLAIN_SIGHT                  433       1    -1             0      
-168 FEAT_BREW_POTION                     944       0    3              0      
+166 FEAT_BREW_POTION                     944       0    3              0      

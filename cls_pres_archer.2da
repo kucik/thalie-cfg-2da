@@ -1,10 +1,9 @@
 2DA V2.0
 
-  LABEL            ReqType ReqParam1      ReqParam2 
-0 Point_Blank_Shot FEAT    27             ****      
-1 WeapFocLongBow   FEATOR  101            ****      
-2 WeapFocShortBow  FEATOR  102            ****      
-3 Carozpyt         SKILL   16             6         
-4 Znalosti         SKILL   7              10        
-5 Base_Attack      BAB     6              ****      
-6 ScriptVar        VAR     X1_AllowArcher 1         
+  LABEL            ReqType  ReqParam1      ReqParam2 
+0 Point_Blank_Shot FEAT     27             ****      
+1 WeapFocLongBow   FEATOR   101            ****      
+2 WeapFocShortBow  FEATOR   102            ****      
+3 Base_Attack      BAB      6              ****      
+4 ScriptVar        VAR      X1_AllowArcher 1         
+5 Arcane           ARCSPELL 1              ****      

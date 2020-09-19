@@ -1,4 +1,4 @@
 2DA V2.0
 
-  LABEL           ReqType ReqParam1      ReqParam2 
-5 ScriptVar       VAR     X1_AllowShadow 1         
+  LABEL     ReqType ReqParam1      ReqParam2 
+0 ScriptVar VAR     X1_AllowShadow 1         

@@ -100,3 +100,7 @@
 96  PLAYER_TOOL_09                       1114      1    99             1      
 97  PLAYER_TOOL_10                       1115      1    99             1      
 98  FEAT_GENERAL_STINOVY_KROK            1671      1    -1             1      
+99  FEAT_GENERAL_SEBRAT                  1515      3    2              1      
+100 FEAT_GENERAL_POUZIT                  1516      3    2              1      
+101 FEAT_GENERAL_TARGET                  1517      3    2              1    
+  

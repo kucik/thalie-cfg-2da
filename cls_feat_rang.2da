@@ -134,3 +134,7 @@
 130 PLAYER_TOOL_10                        1115      1    99             1      
 133 FEAT_GENERAL_STINOVY_KROK             1671      1    -1             1      
 134 FEAT_BREW_POTION                      944       0    3              0      
+135 FEAT_GENERAL_SEBRAT                   1515      3    2              1      
+136 FEAT_GENERAL_POUZIT                   1516      3    2              1      
+137 FEAT_GENERAL_TARGET                   1517      3    2              1  
+    

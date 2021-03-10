@@ -77,3 +77,5 @@
 73 FEAT_GENERAL_POUZIT                    1516      3    2              1      
 74 FEAT_GENERAL_TARGET                    1517      3    2              1      
 75 FEAT_GENERAL_POZOROVAT                 1518      3    2              1      
+76 TwoWeap                                41        0    -1             0      
+77 Ambidex                                1         0    -1             0      

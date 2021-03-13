@@ -1,6 +1,4 @@
 2DA V2.0
 
   LABEL     ReqType ReqParam1 ReqParam2 
-0 Obcan     CLASSOR 8         ****      
-1 Obcan     CLASSOR 38        ****      
 2 ScriptVar VAR     AllowBase 0         
